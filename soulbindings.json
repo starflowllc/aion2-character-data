@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-03T22:32:25.335785+00:00",
+  "source_fetched_at": "2026-11-03T23:14:00.214621+00:00",
   "item_count": 21,
   "items": [
     {
@@ -231,7 +231,7 @@
       "grade": "Unique",
       "category": "Shoes",
       "enchant_level": 11,
-      "soulbind_rate": "3.7",
+      "soulbind_rate": "28.1",
       "soulbindings": [
         {
           "name": "Dexterity",
@@ -247,14 +247,15 @@
           "name": "Critical Damage Defense",
           "value": "202",
           "id": "CriticalDamageDefense"
-        },
-        {
-          "name": "Defense",
-          "value": "196",
-          "id": "ArmorDefense"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Revitalization Contract",
+          "value": "1",
+          "id": "15790000"
+        }
+      ]
     },
     {
       "slot": "10",
@@ -293,29 +294,29 @@
       "grade": "Unique",
       "category": "Earrings",
       "enchant_level": 10,
-      "soulbind_rate": "49",
+      "soulbind_rate": "66.6",
       "soulbindings": [
-        {
-          "name": "Critical Hit Resist",
-          "value": "50",
-          "id": "CriticalResist"
-        },
         {
           "name": "Might",
           "value": "11",
           "id": "STR"
         },
         {
-          "name": "Block",
-          "value": "29",
-          "id": "Block"
+          "name": "Precision",
+          "value": "9",
+          "id": "AGI"
         }
       ],
       "skill_soulbindings": [
         {
-          "name": "Revitalization Contract",
+          "name": "Robe of Cold",
           "value": "1",
-          "id": "15790000"
+          "id": "15750000"
+        },
+        {
+          "name": "Vitality Evaporation",
+          "value": "1",
+          "id": "15800000"
         }
       ]
     },
@@ -325,12 +326,12 @@
       "grade": "Unique",
       "category": "Earrings",
       "enchant_level": 10,
-      "soulbind_rate": "43.6",
+      "soulbind_rate": "28.3",
       "soulbindings": [
         {
-          "name": "Natural MP Regen",
-          "value": "28",
-          "id": "MPRegen"
+          "name": "Might",
+          "value": "9",
+          "id": "STR"
         },
         {
           "name": "Defense",
@@ -338,18 +339,17 @@
           "id": "ArmorDefense"
         },
         {
-          "name": "Critical Hit Resist",
-          "value": "50",
-          "id": "CriticalResist"
+          "name": "HP",
+          "value": "229",
+          "id": "HPMax"
+        },
+        {
+          "name": "Precision",
+          "value": "8",
+          "id": "AGI"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Vitality Evaporation",
-          "value": "1",
-          "id": "15800000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "13",
