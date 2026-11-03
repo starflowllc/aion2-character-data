@@ -1,0 +1,442 @@
+{
+  "source_fetched_at": "2026-11-03T21:37:56.885246+00:00",
+  "exported_at": "2026-11-03T21:50:06.244315+00:00",
+  "item_count": 16,
+  "items": [
+    {
+      "slot": "1",
+      "name": "Splendent White Dragon Lord Spellbook",
+      "grade": "Unique",
+      "category": "Spellbook",
+      "enchant_level": 15,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "30",
+          "id": "STR"
+        },
+        {
+          "name": "Damage Boost",
+          "value": "6.7%",
+          "id": "AmplifyAllDamage"
+        },
+        {
+          "name": "Accuracy",
+          "value": "91",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "value": "8.9%",
+          "id": "AmplifyWeaponDamage"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "11.9%",
+          "id": "CombatSpeed"
+        }
+      ]
+    },
+    {
+      "slot": "2",
+      "name": "Nuakum Guard",
+      "grade": "Unique",
+      "category": "Guard",
+      "enchant_level": 10,
+      "soulbind_rate": "87.4",
+      "soulbindings": [
+        {
+          "name": "Critical Hit",
+          "value": "54",
+          "id": "Critical"
+        },
+        {
+          "name": "Accuracy",
+          "value": "73",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "9.6%",
+          "id": "CombatSpeed"
+        },
+        {
+          "name": "Multi-hit Chance",
+          "value": "7.3%",
+          "id": "AdditionalHitRate"
+        }
+      ]
+    },
+    {
+      "slot": "3",
+      "name": "Nuakum Helm",
+      "grade": "Unique",
+      "category": "Helm",
+      "enchant_level": 15,
+      "soulbind_rate": "5.6",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "1.8%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "28",
+          "id": "Critical"
+        },
+        {
+          "name": "Front Defense",
+          "value": "224",
+          "id": "FrontAttackDefense"
+        },
+        {
+          "name": "Natural MP Regen",
+          "value": "20",
+          "id": "MPRegen"
+        }
+      ]
+    },
+    {
+      "slot": "4",
+      "name": "Nuakum Pauldrons",
+      "grade": "Unique",
+      "category": "Pauldrons",
+      "enchant_level": 15,
+      "soulbind_rate": "6",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "1.4%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Constitution",
+          "value": "9",
+          "id": "CON"
+        },
+        {
+          "name": "Block",
+          "value": "18",
+          "id": "Block"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "value": "10.5%",
+          "id": "AmplifyCriticalDamage"
+        }
+      ]
+    },
+    {
+      "slot": "5",
+      "name": "Nuakum Breastplate",
+      "grade": "Unique",
+      "category": "Top",
+      "enchant_level": 10,
+      "soulbind_rate": "29",
+      "soulbindings": [
+        {
+          "name": "Back Defense",
+          "value": "271",
+          "id": "BackAttackDefense"
+        },
+        {
+          "name": "Front Defense",
+          "value": "269",
+          "id": "FrontAttackDefense"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "33",
+          "id": "Critical"
+        }
+      ]
+    },
+    {
+      "slot": "6",
+      "name": "Nuakum Greaves",
+      "grade": "Unique",
+      "category": "Legs",
+      "enchant_level": 10,
+      "soulbind_rate": "12.4",
+      "soulbindings": [
+        {
+          "name": "Endurance",
+          "value": "2.9%",
+          "id": "IronWall"
+        },
+        {
+          "name": "Attack increase",
+          "value": "2.1%",
+          "id": "DamageRatio"
+        },
+        {
+          "name": "MP",
+          "value": "93",
+          "id": "MPMax"
+        },
+        {
+          "name": "Status Effect Resist",
+          "value": "6.2%",
+          "id": "AbnormalResistance"
+        }
+      ]
+    },
+    {
+      "slot": "7",
+      "name": "Nuakum Gloves",
+      "grade": "Unique",
+      "category": "Gloves",
+      "enchant_level": 10,
+      "soulbind_rate": "18.5",
+      "soulbindings": [
+        {
+          "name": "Critical Hit Resist",
+          "value": "30",
+          "id": "CriticalResist"
+        },
+        {
+          "name": "Defense",
+          "value": "159",
+          "id": "ArmorDefense"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "6%",
+          "id": "CombatSpeed"
+        },
+        {
+          "name": "Regeneration",
+          "value": "1.4%",
+          "id": "Restoration"
+        }
+      ]
+    },
+    {
+      "slot": "8",
+      "name": "Nuakum Boots",
+      "grade": "Unique",
+      "category": "Shoes",
+      "enchant_level": 11,
+      "soulbind_rate": "3.7",
+      "soulbindings": [
+        {
+          "name": "Dexterity",
+          "value": "18",
+          "id": "DEX"
+        },
+        {
+          "name": "Move Speed",
+          "value": "8.4%",
+          "id": "MoveSpeed"
+        },
+        {
+          "name": "Critical Damage Defense",
+          "value": "202",
+          "id": "CriticalDamageDefense"
+        },
+        {
+          "name": "Defense",
+          "value": "196",
+          "id": "ArmorDefense"
+        }
+      ]
+    },
+    {
+      "slot": "10",
+      "name": "Enraged Kromede Necklace",
+      "grade": "Unique",
+      "category": "Necklace",
+      "enchant_level": 10,
+      "soulbind_rate": "13.9",
+      "soulbindings": [
+        {
+          "name": "Natural MP Regen",
+          "value": "31",
+          "id": "MPRegen"
+        },
+        {
+          "name": "Attack",
+          "value": "25",
+          "id": "WeaponFixingDamage"
+        },
+        {
+          "name": "Critical Hit Resist",
+          "value": "55",
+          "id": "CriticalResist"
+        },
+        {
+          "name": "MP",
+          "value": "118",
+          "id": "MPMax"
+        }
+      ]
+    },
+    {
+      "slot": "11",
+      "name": "Enraged Kromede Earrings",
+      "grade": "Unique",
+      "category": "Earrings",
+      "enchant_level": 10,
+      "soulbind_rate": "49",
+      "soulbindings": [
+        {
+          "name": "Critical Hit Resist",
+          "value": "50",
+          "id": "CriticalResist"
+        },
+        {
+          "name": "Might",
+          "value": "11",
+          "id": "STR"
+        },
+        {
+          "name": "Block",
+          "value": "29",
+          "id": "Block"
+        }
+      ]
+    },
+    {
+      "slot": "12",
+      "name": "Enraged Kromede Earrings",
+      "grade": "Unique",
+      "category": "Earrings",
+      "enchant_level": 10,
+      "soulbind_rate": "43.6",
+      "soulbindings": [
+        {
+          "name": "Natural MP Regen",
+          "value": "28",
+          "id": "MPRegen"
+        },
+        {
+          "name": "Defense",
+          "value": "264",
+          "id": "ArmorDefense"
+        },
+        {
+          "name": "Critical Hit Resist",
+          "value": "50",
+          "id": "CriticalResist"
+        }
+      ]
+    },
+    {
+      "slot": "13",
+      "name": "Enraged Kromede Ring",
+      "grade": "Unique",
+      "category": "Ring",
+      "enchant_level": 14,
+      "soulbind_rate": "79.8",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "12",
+          "id": "STR"
+        },
+        {
+          "name": "Defense",
+          "value": "234",
+          "id": "ArmorDefense"
+        }
+      ]
+    },
+    {
+      "slot": "14",
+      "name": "Enraged Kromede Ring",
+      "grade": "Unique",
+      "category": "Ring",
+      "enchant_level": 11,
+      "soulbind_rate": "83.3",
+      "soulbindings": [
+        {
+          "name": "HP",
+          "value": "178",
+          "id": "HPMax"
+        }
+      ]
+    },
+    {
+      "slot": "15",
+      "name": "Ascension Bracelet",
+      "grade": "Unique",
+      "category": "Bracelet",
+      "enchant_level": 13,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Evasion",
+          "value": "12",
+          "id": "ArmorEvasion"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "9",
+          "id": "Critical"
+        },
+        {
+          "name": "MP",
+          "value": "26",
+          "id": "MPMax"
+        },
+        {
+          "name": "Natural MP Regen",
+          "value": "9",
+          "id": "MPRegen"
+        }
+      ]
+    },
+    {
+      "slot": "16",
+      "name": "Pilgrim Bracelet",
+      "grade": "Epic",
+      "category": "Bracelet",
+      "enchant_level": 10,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Critical Hit",
+          "value": "8",
+          "id": "Critical"
+        },
+        {
+          "name": "MP",
+          "value": "22",
+          "id": "MPMax"
+        },
+        {
+          "name": "Natural MP Regen",
+          "value": "8",
+          "id": "MPRegen"
+        }
+      ]
+    },
+    {
+      "slot": "19",
+      "name": "Nuakum Cloak",
+      "grade": "Unique",
+      "category": "Cloak",
+      "enchant_level": 10,
+      "soulbind_rate": "46.1",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "1.4%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Defense",
+          "value": "197",
+          "id": "ArmorDefense"
+        },
+        {
+          "name": "Willpower",
+          "value": "16",
+          "id": "WIS"
+        }
+      ]
+    }
+  ]
+}
