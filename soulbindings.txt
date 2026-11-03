@@ -1,6 +1,6 @@
 AION 2 LIVE SOULBINDINGS
 source_fetched_at: 2026-11-03T21:37:56.885246+00:00
-item_count: 16
+item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
 soulBindRate: 100
@@ -36,6 +36,7 @@ soulBindRate: 29
 - Back Defense: 271
 - Front Defense: 269
 - Critical Hit: 33
+- Revitalization Contract: 1 [SKILL]
 
 === 6 | Nuakum Greaves +10 | Legs ===
 soulBindRate: 12.4
@@ -70,21 +71,28 @@ soulBindRate: 49
 - Critical Hit Resist: 50
 - Might: 11
 - Block: 29
+- Revitalization Contract: 1 [SKILL]
 
 === 12 | Enraged Kromede Earrings +10 | Earrings ===
 soulBindRate: 43.6
 - Natural MP Regen: 28
 - Defense: 264
 - Critical Hit Resist: 50
+- Vitality Evaporation: 1 [SKILL]
 
 === 13 | Enraged Kromede Ring +14 | Ring ===
 soulBindRate: 79.8
 - Might: 12
 - Defense: 234
+- Firestorm: 1 [SKILL]
+- Wish of Concentration: 1 [SKILL]
 
 === 14 | Enraged Kromede Ring +11 | Ring ===
 soulBindRate: 83.3
 - HP: 178
+- Ice Chain: 1 [SKILL]
+- Flame Scattershot: 1 [SKILL]
+- Flame Arrow: 1 [SKILL]
 
 === 15 | Ascension Bracelet +13 | Bracelet ===
 soulBindRate: 100
@@ -104,3 +112,39 @@ soulBindRate: 46.1
 - Double Chance: 1.4%
 - Defense: 197
 - Willpower: 16
+- Cold Snap: 1 [SKILL]
+
+=== 41 | Chalice of Vigor +4 | Chalice ===
+soulBindRate: 100
+- Wish of Concentration: 2 [SKILL]
+- Grace of Resistance: 2 [SKILL]
+- Robe of Flame: 2 [SKILL]
+- Grace of Enhancement: 2 [SKILL]
+
+=== 42 | Parchment of Vigor +4 | Parchment ===
+soulBindRate: 100
+- Firestorm: 2 [SKILL]
+- Wish of Concentration: 3 [SKILL]
+- Hellfire: 1 [SKILL]
+- Blaze: 2 [SKILL]
+
+=== 43 | Compass of Magic +3 | Compass ===
+soulBindRate: 100
+- Ice Chain: 1 [SKILL]
+- Winter's Shackles: 2 [SKILL]
+- Bittercold Wind: 3 [SKILL]
+- Flame Scattershot: 1 [SKILL]
+
+=== 44 | Bell of Vigor +2 | Bell ===
+soulBindRate: 100
+- Robe of Cold: 1 [SKILL]
+- Revitalization Contract: 2 [SKILL]
+- Fire Mark: 1 [SKILL]
+- Cold Snap: 2 [SKILL]
+
+=== 45 | Mirror of Vigor +3 | Mirror ===
+soulBindRate: 100
+- Robe of Flame: 2 [SKILL]
+- Grace of Enhancement: 1 [SKILL]
+- Robe of Earth: 1 [SKILL]
+- Absorb Essence: 3 [SKILL]
