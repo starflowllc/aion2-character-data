@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-03T22:15:04.040259+00:00
+source_fetched_at: 2026-11-03T22:32:25.335785+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -18,11 +18,11 @@ soulBindRate: 87.4
 - Multi-hit Chance: 7.3%
 
 === 3 | Nuakum Helm +15 | Helm ===
-soulBindRate: 5.6
+soulBindRate: 26.4
 - Double Chance: 1.8%
 - Critical Hit: 28
-- Front Defense: 224
-- Natural MP Regen: 20
+- Accuracy: 42
+- HP: 184
 
 === 4 | Nuakum Pauldrons +15 | Pauldrons ===
 soulBindRate: 6
@@ -144,7 +144,7 @@ soulBindRate: 100
 
 === 45 | Mirror of Vigor +3 | Mirror ===
 soulBindRate: 100
-- Robe of Flame: 2 [SKILL]
+- Absorb Essence: 3 [SKILL]
 - Grace of Enhancement: 1 [SKILL]
 - Robe of Earth: 1 [SKILL]
-- Absorb Essence: 3 [SKILL]
+- Robe of Flame: 2 [SKILL]
