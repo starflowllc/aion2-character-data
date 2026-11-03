@@ -1,7 +1,6 @@
 {
   "source_fetched_at": "2026-11-03T21:37:56.885246+00:00",
-  "exported_at": "2026-11-03T21:50:06.244315+00:00",
-  "item_count": 16,
+  "item_count": 21,
   "items": [
     {
       "slot": "1",
@@ -36,7 +35,8 @@
           "value": "11.9%",
           "id": "CombatSpeed"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "2",
@@ -66,7 +66,8 @@
           "value": "7.3%",
           "id": "AdditionalHitRate"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "3",
@@ -96,7 +97,8 @@
           "value": "20",
           "id": "MPRegen"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "4",
@@ -126,7 +128,8 @@
           "value": "10.5%",
           "id": "AmplifyCriticalDamage"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "5",
@@ -150,6 +153,13 @@
           "name": "Critical Hit",
           "value": "33",
           "id": "Critical"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Revitalization Contract",
+          "value": "1",
+          "id": "15790000"
         }
       ]
     },
@@ -181,7 +191,8 @@
           "value": "6.2%",
           "id": "AbnormalResistance"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "7",
@@ -211,7 +222,8 @@
           "value": "1.4%",
           "id": "Restoration"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "8",
@@ -241,7 +253,8 @@
           "value": "196",
           "id": "ArmorDefense"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "10",
@@ -271,7 +284,8 @@
           "value": "118",
           "id": "MPMax"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "11",
@@ -295,6 +309,13 @@
           "name": "Block",
           "value": "29",
           "id": "Block"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Revitalization Contract",
+          "value": "1",
+          "id": "15790000"
         }
       ]
     },
@@ -321,6 +342,13 @@
           "value": "50",
           "id": "CriticalResist"
         }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Vitality Evaporation",
+          "value": "1",
+          "id": "15800000"
+        }
       ]
     },
     {
@@ -341,6 +369,18 @@
           "value": "234",
           "id": "ArmorDefense"
         }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Firestorm",
+          "value": "1",
+          "id": "15040000"
+        },
+        {
+          "name": "Wish of Concentration",
+          "value": "1",
+          "id": "15310000"
+        }
       ]
     },
     {
@@ -355,6 +395,23 @@
           "name": "HP",
           "value": "178",
           "id": "HPMax"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Ice Chain",
+          "value": "1",
+          "id": "15090000"
+        },
+        {
+          "name": "Flame Scattershot",
+          "value": "1",
+          "id": "15010000"
+        },
+        {
+          "name": "Flame Arrow",
+          "value": "1",
+          "id": "15210000"
         }
       ]
     },
@@ -386,7 +443,8 @@
           "value": "9",
           "id": "MPRegen"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "16",
@@ -411,7 +469,8 @@
           "value": "8",
           "id": "MPRegen"
         }
-      ]
+      ],
+      "skill_soulbindings": []
     },
     {
       "slot": "19",
@@ -435,6 +494,168 @@
           "name": "Willpower",
           "value": "16",
           "id": "WIS"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Cold Snap",
+          "value": "1",
+          "id": "15730000"
+        }
+      ]
+    },
+    {
+      "slot": "41",
+      "name": "Chalice of Vigor",
+      "grade": "Unique",
+      "category": "Chalice",
+      "enchant_level": 4,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Wish of Concentration",
+          "value": "2",
+          "id": "15310000"
+        },
+        {
+          "name": "Grace of Resistance",
+          "value": "2",
+          "id": "15770000"
+        },
+        {
+          "name": "Robe of Flame",
+          "value": "2",
+          "id": "15740000"
+        },
+        {
+          "name": "Grace of Enhancement",
+          "value": "2",
+          "id": "15780000"
+        }
+      ]
+    },
+    {
+      "slot": "42",
+      "name": "Parchment of Vigor",
+      "grade": "Unique",
+      "category": "Parchment",
+      "enchant_level": 4,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Firestorm",
+          "value": "2",
+          "id": "15040000"
+        },
+        {
+          "name": "Wish of Concentration",
+          "value": "3",
+          "id": "15310000"
+        },
+        {
+          "name": "Hellfire",
+          "value": "1",
+          "id": "15060000"
+        },
+        {
+          "name": "Blaze",
+          "value": "2",
+          "id": "15050000"
+        }
+      ]
+    },
+    {
+      "slot": "43",
+      "name": "Compass of Magic",
+      "grade": "Unique",
+      "category": "Compass",
+      "enchant_level": 3,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Ice Chain",
+          "value": "1",
+          "id": "15090000"
+        },
+        {
+          "name": "Winter's Shackles",
+          "value": "2",
+          "id": "15110000"
+        },
+        {
+          "name": "Bittercold Wind",
+          "value": "3",
+          "id": "15280000"
+        },
+        {
+          "name": "Flame Scattershot",
+          "value": "1",
+          "id": "15010000"
+        }
+      ]
+    },
+    {
+      "slot": "44",
+      "name": "Bell of Vigor",
+      "grade": "Unique",
+      "category": "Bell",
+      "enchant_level": 2,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Cold",
+          "value": "1",
+          "id": "15750000"
+        },
+        {
+          "name": "Revitalization Contract",
+          "value": "2",
+          "id": "15790000"
+        },
+        {
+          "name": "Fire Mark",
+          "value": "1",
+          "id": "15710000"
+        },
+        {
+          "name": "Cold Snap",
+          "value": "2",
+          "id": "15730000"
+        }
+      ]
+    },
+    {
+      "slot": "45",
+      "name": "Mirror of Vigor",
+      "grade": "Unique",
+      "category": "Mirror",
+      "enchant_level": 3,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "2",
+          "id": "15740000"
+        },
+        {
+          "name": "Grace of Enhancement",
+          "value": "1",
+          "id": "15780000"
+        },
+        {
+          "name": "Robe of Earth",
+          "value": "1",
+          "id": "15720000"
+        },
+        {
+          "name": "Absorb Essence",
+          "value": "3",
+          "id": "15760000"
         }
       ]
     }
