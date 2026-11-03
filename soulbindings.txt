@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-03T22:32:25.335785+00:00
+source_fetched_at: 2026-11-03T23:14:00.214621+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -53,11 +53,11 @@ soulBindRate: 18.5
 - Regeneration: 1.4%
 
 === 8 | Nuakum Boots +11 | Shoes ===
-soulBindRate: 3.7
+soulBindRate: 28.1
 - Dexterity: 18
 - Move Speed: 8.4%
 - Critical Damage Defense: 202
-- Defense: 196
+- Revitalization Contract: 1 [SKILL]
 
 === 10 | Enraged Kromede Necklace +10 | Necklace ===
 soulBindRate: 13.9
@@ -67,18 +67,18 @@ soulBindRate: 13.9
 - MP: 118
 
 === 11 | Enraged Kromede Earrings +10 | Earrings ===
-soulBindRate: 49
-- Critical Hit Resist: 50
+soulBindRate: 66.6
 - Might: 11
-- Block: 29
-- Revitalization Contract: 1 [SKILL]
+- Precision: 9
+- Robe of Cold: 1 [SKILL]
+- Vitality Evaporation: 1 [SKILL]
 
 === 12 | Enraged Kromede Earrings +10 | Earrings ===
-soulBindRate: 43.6
-- Natural MP Regen: 28
+soulBindRate: 28.3
+- Might: 9
 - Defense: 264
-- Critical Hit Resist: 50
-- Vitality Evaporation: 1 [SKILL]
+- HP: 229
+- Precision: 8
 
 === 13 | Enraged Kromede Ring +14 | Ring ===
 soulBindRate: 79.8
