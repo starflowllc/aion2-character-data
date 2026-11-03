@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-03T22:15:04.040259+00:00",
+  "source_fetched_at": "2026-11-03T22:32:25.335785+00:00",
   "item_count": 21,
   "items": [
     {
@@ -75,7 +75,7 @@
       "grade": "Unique",
       "category": "Helm",
       "enchant_level": 15,
-      "soulbind_rate": "5.6",
+      "soulbind_rate": "26.4",
       "soulbindings": [
         {
           "name": "Double Chance",
@@ -88,14 +88,14 @@
           "id": "Critical"
         },
         {
-          "name": "Front Defense",
-          "value": "224",
-          "id": "FrontAttackDefense"
+          "name": "Accuracy",
+          "value": "42",
+          "id": "WeaponAccuracy"
         },
         {
-          "name": "Natural MP Regen",
-          "value": "20",
-          "id": "MPRegen"
+          "name": "HP",
+          "value": "184",
+          "id": "HPMax"
         }
       ],
       "skill_soulbindings": []
@@ -638,9 +638,9 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
-          "name": "Robe of Flame",
-          "value": "2",
-          "id": "15740000"
+          "name": "Absorb Essence",
+          "value": "3",
+          "id": "15760000"
         },
         {
           "name": "Grace of Enhancement",
@@ -653,9 +653,9 @@
           "id": "15720000"
         },
         {
-          "name": "Absorb Essence",
-          "value": "3",
-          "id": "15760000"
+          "name": "Robe of Flame",
+          "value": "2",
+          "id": "15740000"
         }
       ]
     }
