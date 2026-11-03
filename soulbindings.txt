@@ -1,0 +1,106 @@
+AION 2 LIVE SOULBINDINGS
+source_fetched_at: 2026-11-03T21:37:56.885246+00:00
+item_count: 16
+
+=== 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
+soulBindRate: 100
+- Might: 30
+- Damage Boost: 6.7%
+- Accuracy: 91
+- Weapon Damage Boost: 8.9%
+- Combat Speed: 11.9%
+
+=== 2 | Nuakum Guard +10 | Guard ===
+soulBindRate: 87.4
+- Critical Hit: 54
+- Accuracy: 73
+- Combat Speed: 9.6%
+- Multi-hit Chance: 7.3%
+
+=== 3 | Nuakum Helm +15 | Helm ===
+soulBindRate: 5.6
+- Double Chance: 1.8%
+- Critical Hit: 28
+- Front Defense: 224
+- Natural MP Regen: 20
+
+=== 4 | Nuakum Pauldrons +15 | Pauldrons ===
+soulBindRate: 6
+- Double Chance: 1.4%
+- Constitution: 9
+- Block: 18
+- Critical Damage Boost: 10.5%
+
+=== 5 | Nuakum Breastplate +10 | Top ===
+soulBindRate: 29
+- Back Defense: 271
+- Front Defense: 269
+- Critical Hit: 33
+
+=== 6 | Nuakum Greaves +10 | Legs ===
+soulBindRate: 12.4
+- Endurance: 2.9%
+- Attack increase: 2.1%
+- MP: 93
+- Status Effect Resist: 6.2%
+
+=== 7 | Nuakum Gloves +10 | Gloves ===
+soulBindRate: 18.5
+- Critical Hit Resist: 30
+- Defense: 159
+- Combat Speed: 6%
+- Regeneration: 1.4%
+
+=== 8 | Nuakum Boots +11 | Shoes ===
+soulBindRate: 3.7
+- Dexterity: 18
+- Move Speed: 8.4%
+- Critical Damage Defense: 202
+- Defense: 196
+
+=== 10 | Enraged Kromede Necklace +10 | Necklace ===
+soulBindRate: 13.9
+- Natural MP Regen: 31
+- Attack: 25
+- Critical Hit Resist: 55
+- MP: 118
+
+=== 11 | Enraged Kromede Earrings +10 | Earrings ===
+soulBindRate: 49
+- Critical Hit Resist: 50
+- Might: 11
+- Block: 29
+
+=== 12 | Enraged Kromede Earrings +10 | Earrings ===
+soulBindRate: 43.6
+- Natural MP Regen: 28
+- Defense: 264
+- Critical Hit Resist: 50
+
+=== 13 | Enraged Kromede Ring +14 | Ring ===
+soulBindRate: 79.8
+- Might: 12
+- Defense: 234
+
+=== 14 | Enraged Kromede Ring +11 | Ring ===
+soulBindRate: 83.3
+- HP: 178
+
+=== 15 | Ascension Bracelet +13 | Bracelet ===
+soulBindRate: 100
+- Evasion: 12
+- Critical Hit: 9
+- MP: 26
+- Natural MP Regen: 9
+
+=== 16 | Pilgrim Bracelet +10 | Bracelet ===
+soulBindRate: 100
+- Critical Hit: 8
+- MP: 22
+- Natural MP Regen: 8
+
+=== 19 | Nuakum Cloak +10 | Cloak ===
+soulBindRate: 46.1
+- Double Chance: 1.4%
+- Defense: 197
+- Willpower: 16
