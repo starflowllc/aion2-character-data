@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-04T00:23:56.755622+00:00",
+  "source_fetched_at": "2026-11-04T02:24:20.354338+00:00",
   "item_count": 21,
   "items": [
     {
@@ -602,13 +602,13 @@
       "name": "Bell of Vigor",
       "grade": "Unique",
       "category": "Bell",
-      "enchant_level": 2,
+      "enchant_level": 3,
       "soulbind_rate": "100",
       "soulbindings": [],
       "skill_soulbindings": [
         {
           "name": "Robe of Cold",
-          "value": "1",
+          "value": "2",
           "id": "15750000"
         },
         {
@@ -630,7 +630,7 @@
     },
     {
       "slot": "45",
-      "name": "Mirror of Vigor",
+      "name": "Mirror of Magic",
       "grade": "Unique",
       "category": "Mirror",
       "enchant_level": 3,
@@ -638,23 +638,23 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
+          "name": "Vitality Evaporation",
+          "value": "2",
+          "id": "15800000"
+        },
+        {
           "name": "Absorb Essence",
-          "value": "3",
+          "value": "1",
           "id": "15760000"
         },
         {
           "name": "Grace of Enhancement",
-          "value": "1",
+          "value": "3",
           "id": "15780000"
         },
         {
-          "name": "Robe of Earth",
-          "value": "1",
-          "id": "15720000"
-        },
-        {
           "name": "Robe of Flame",
-          "value": "2",
+          "value": "1",
           "id": "15740000"
         }
       ]
