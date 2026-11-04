@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-04T18:00:01.609367+00:00",
+  "source_fetched_at": "2026-11-04T20:00:19.787431+00:00",
   "item_count": 21,
   "items": [
     {
@@ -231,7 +231,7 @@
       "grade": "Unique",
       "category": "Shoes",
       "enchant_level": 11,
-      "soulbind_rate": "28.1",
+      "soulbind_rate": "12.7",
       "soulbindings": [
         {
           "name": "Dexterity",
@@ -247,15 +247,14 @@
           "name": "Critical Damage Defense",
           "value": "202",
           "id": "CriticalDamageDefense"
+        },
+        {
+          "name": "HP",
+          "value": "162",
+          "id": "HPMax"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Revitalization Contract",
-          "value": "1",
-          "id": "15790000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "10",
