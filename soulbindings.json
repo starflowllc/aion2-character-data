@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-05T17:00:24.294863+00:00",
+  "source_fetched_at": "2026-11-05T17:08:09.548994+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,31 +137,30 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 10,
-      "soulbind_rate": "29",
+      "soulbind_rate": "11.3",
       "soulbindings": [
         {
-          "name": "Back Defense",
-          "value": "271",
-          "id": "BackAttackDefense"
+          "name": "Critical Damage Defense",
+          "value": "276",
+          "id": "CriticalDamageDefense"
         },
         {
-          "name": "Front Defense",
-          "value": "269",
-          "id": "FrontAttackDefense"
+          "name": "Natural MP Regen",
+          "value": "25",
+          "id": "MPRegen"
         },
         {
           "name": "Critical Hit",
           "value": "33",
           "id": "Critical"
+        },
+        {
+          "name": "MP",
+          "value": "100",
+          "id": "MPMax"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Revitalization Contract",
-          "value": "1",
-          "id": "15790000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "6",
@@ -169,12 +168,12 @@
       "grade": "Unique",
       "category": "Legs",
       "enchant_level": 10,
-      "soulbind_rate": "12.4",
+      "soulbind_rate": "35.4",
       "soulbindings": [
         {
-          "name": "Endurance",
-          "value": "2.9%",
-          "id": "IronWall"
+          "name": "HP",
+          "value": "185",
+          "id": "HPMax"
         },
         {
           "name": "Attack increase",
@@ -182,17 +181,18 @@
           "id": "DamageRatio"
         },
         {
-          "name": "MP",
-          "value": "93",
-          "id": "MPMax"
-        },
-        {
-          "name": "Status Effect Resist",
-          "value": "6.2%",
-          "id": "AbnormalResistance"
+          "name": "Perfect Chance",
+          "value": "4.3%",
+          "id": "Perfect"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Earth",
+          "value": "1",
+          "id": "15720000"
+        }
+      ]
     },
     {
       "slot": "7",
@@ -262,27 +262,27 @@
       "grade": "Unique",
       "category": "Necklace",
       "enchant_level": 10,
-      "soulbind_rate": "13.9",
+      "soulbind_rate": "25.4",
       "soulbindings": [
         {
-          "name": "Natural MP Regen",
-          "value": "31",
-          "id": "MPRegen"
+          "name": "HP",
+          "value": "264",
+          "id": "HPMax"
         },
         {
           "name": "Attack",
-          "value": "25",
+          "value": "26",
           "id": "WeaponFixingDamage"
         },
         {
-          "name": "Critical Hit Resist",
-          "value": "55",
-          "id": "CriticalResist"
+          "name": "Precision",
+          "value": "10",
+          "id": "AGI"
         },
         {
-          "name": "MP",
-          "value": "118",
-          "id": "MPMax"
+          "name": "Block",
+          "value": "31",
+          "id": "Block"
         }
       ],
       "skill_soulbindings": []
@@ -356,7 +356,7 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 14,
-      "soulbind_rate": "79.8",
+      "soulbind_rate": "70.7",
       "soulbindings": [
         {
           "name": "Might",
@@ -364,9 +364,9 @@
           "id": "STR"
         },
         {
-          "name": "Defense",
-          "value": "234",
-          "id": "ArmorDefense"
+          "name": "Flight Power",
+          "value": "212",
+          "id": "FPMax"
         }
       ],
       "skill_soulbindings": [
@@ -388,12 +388,12 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 11,
-      "soulbind_rate": "83.3",
+      "soulbind_rate": "80.3",
       "soulbindings": [
         {
-          "name": "HP",
-          "value": "178",
-          "id": "HPMax"
+          "name": "Accuracy",
+          "value": "39",
+          "id": "WeaponAccuracy"
         }
       ],
       "skill_soulbindings": [
