@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-04T20:00:19.787431+00:00",
+  "source_fetched_at": "2026-11-05T00:01:18.536560+00:00",
   "item_count": 21,
   "items": [
     {
@@ -536,7 +536,7 @@
     },
     {
       "slot": "42",
-      "name": "Parchment of Vigor",
+      "name": "Parchment of Magic",
       "grade": "Unique",
       "category": "Parchment",
       "enchant_level": 4,
@@ -544,30 +544,30 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
+          "name": "Hellfire",
+          "value": "1",
+          "id": "15060000"
+        },
+        {
+          "name": "Flame Arrow",
+          "value": "1",
+          "id": "15210000"
+        },
+        {
           "name": "Firestorm",
-          "value": "2",
+          "value": "3",
           "id": "15040000"
         },
         {
           "name": "Wish of Concentration",
           "value": "3",
           "id": "15310000"
-        },
-        {
-          "name": "Hellfire",
-          "value": "1",
-          "id": "15060000"
-        },
-        {
-          "name": "Blaze",
-          "value": "2",
-          "id": "15050000"
         }
       ]
     },
     {
       "slot": "43",
-      "name": "Compass of Magic",
+      "name": "Compass of Vigor",
       "grade": "Unique",
       "category": "Compass",
       "enchant_level": 3,
@@ -575,24 +575,24 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
-          "name": "Ice Chain",
-          "value": "1",
-          "id": "15090000"
-        },
-        {
-          "name": "Winter's Shackles",
-          "value": "2",
-          "id": "15110000"
-        },
-        {
-          "name": "Bittercold Wind",
+          "name": "Frost",
           "value": "3",
-          "id": "15280000"
+          "id": "15150000"
         },
         {
           "name": "Flame Scattershot",
           "value": "1",
           "id": "15010000"
+        },
+        {
+          "name": "Bittercold Wind",
+          "value": "1",
+          "id": "15280000"
+        },
+        {
+          "name": "Winter's Shackles",
+          "value": "2",
+          "id": "15110000"
         }
       ]
     },
@@ -606,14 +606,14 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
-          "name": "Robe of Cold",
-          "value": "2",
-          "id": "15750000"
-        },
-        {
           "name": "Revitalization Contract",
           "value": "2",
           "id": "15790000"
+        },
+        {
+          "name": "Grace of Resistance",
+          "value": "3",
+          "id": "15770000"
         },
         {
           "name": "Fire Mark",
@@ -621,25 +621,25 @@
           "id": "15710000"
         },
         {
-          "name": "Cold Snap",
-          "value": "2",
-          "id": "15730000"
+          "name": "Robe of Cold",
+          "value": "1",
+          "id": "15750000"
         }
       ]
     },
     {
       "slot": "45",
-      "name": "Mirror of Magic",
+      "name": "Mirror of Vigor",
       "grade": "Unique",
       "category": "Mirror",
-      "enchant_level": 3,
+      "enchant_level": 4,
       "soulbind_rate": "100",
       "soulbindings": [],
       "skill_soulbindings": [
         {
-          "name": "Vitality Evaporation",
-          "value": "2",
-          "id": "15800000"
+          "name": "Grace of Enhancement",
+          "value": "4",
+          "id": "15780000"
         },
         {
           "name": "Absorb Essence",
@@ -647,14 +647,14 @@
           "id": "15760000"
         },
         {
-          "name": "Grace of Enhancement",
-          "value": "3",
-          "id": "15780000"
-        },
-        {
           "name": "Robe of Flame",
           "value": "1",
           "id": "15740000"
+        },
+        {
+          "name": "Robe of Earth",
+          "value": "2",
+          "id": "15720000"
         }
       ]
     }
