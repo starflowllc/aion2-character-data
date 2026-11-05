@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-05T21:08:18.535083+00:00
+source_fetched_at: 2026-11-05T23:59:17.627751+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -87,7 +87,7 @@ soulBindRate: 70.7
 - Firestorm: 1 [SKILL]
 - Wish of Concentration: 1 [SKILL]
 
-=== 14 | Enraged Kromede Ring +11 | Ring ===
+=== 14 | Enraged Kromede Ring +15 | Ring ===
 soulBindRate: 80.3
 - Accuracy: 39
 - Ice Chain: 1 [SKILL]
@@ -128,19 +128,19 @@ soulBindRate: 100
 - Firestorm: 3 [SKILL]
 - Wish of Concentration: 3 [SKILL]
 
-=== 43 | Compass of Vigor +3 | Compass ===
+=== 43 | Compass of Magic +4 | Compass ===
 soulBindRate: 100
-- Frost: 3 [SKILL]
-- Flame Scattershot: 1 [SKILL]
-- Bittercold Wind: 1 [SKILL]
+- Flame Scattershot: 2 [SKILL]
+- Bittercold Wind: 3 [SKILL]
+- Ice Chain: 1 [SKILL]
 - Winter's Shackles: 2 [SKILL]
 
-=== 44 | Bell of Vigor +3 | Bell ===
+=== 44 | Bell of Magic +3 | Bell ===
 soulBindRate: 100
-- Revitalization Contract: 2 [SKILL]
-- Grace of Resistance: 3 [SKILL]
-- Fire Mark: 1 [SKILL]
-- Robe of Cold: 1 [SKILL]
+- Fire Mark: 2 [SKILL]
+- Grace of Resistance: 1 [SKILL]
+- Cold Snap: 3 [SKILL]
+- Revitalization Contract: 1 [SKILL]
 
 === 45 | Mirror of Vigor +4 | Mirror ===
 soulBindRate: 100
