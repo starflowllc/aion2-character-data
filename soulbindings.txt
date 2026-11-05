@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-04T20:00:19.787431+00:00
+source_fetched_at: 2026-11-05T00:01:18.536560+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -121,30 +121,30 @@ soulBindRate: 100
 - Robe of Flame: 2 [SKILL]
 - Grace of Enhancement: 2 [SKILL]
 
-=== 42 | Parchment of Vigor +4 | Parchment ===
+=== 42 | Parchment of Magic +4 | Parchment ===
 soulBindRate: 100
-- Firestorm: 2 [SKILL]
-- Wish of Concentration: 3 [SKILL]
 - Hellfire: 1 [SKILL]
-- Blaze: 2 [SKILL]
+- Flame Arrow: 1 [SKILL]
+- Firestorm: 3 [SKILL]
+- Wish of Concentration: 3 [SKILL]
 
-=== 43 | Compass of Magic +3 | Compass ===
+=== 43 | Compass of Vigor +3 | Compass ===
 soulBindRate: 100
-- Ice Chain: 1 [SKILL]
-- Winter's Shackles: 2 [SKILL]
-- Bittercold Wind: 3 [SKILL]
+- Frost: 3 [SKILL]
 - Flame Scattershot: 1 [SKILL]
+- Bittercold Wind: 1 [SKILL]
+- Winter's Shackles: 2 [SKILL]
 
 === 44 | Bell of Vigor +3 | Bell ===
 soulBindRate: 100
-- Robe of Cold: 2 [SKILL]
 - Revitalization Contract: 2 [SKILL]
+- Grace of Resistance: 3 [SKILL]
 - Fire Mark: 1 [SKILL]
-- Cold Snap: 2 [SKILL]
+- Robe of Cold: 1 [SKILL]
 
-=== 45 | Mirror of Magic +3 | Mirror ===
+=== 45 | Mirror of Vigor +4 | Mirror ===
 soulBindRate: 100
-- Vitality Evaporation: 2 [SKILL]
+- Grace of Enhancement: 4 [SKILL]
 - Absorb Essence: 1 [SKILL]
-- Grace of Enhancement: 3 [SKILL]
 - Robe of Flame: 1 [SKILL]
+- Robe of Earth: 2 [SKILL]
