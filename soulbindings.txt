@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-05T17:00:24.294863+00:00
+source_fetched_at: 2026-11-05T17:08:09.548994+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -32,18 +32,18 @@ soulBindRate: 6
 - Critical Damage Boost: 10.5%
 
 === 5 | Nuakum Breastplate +10 | Top ===
-soulBindRate: 29
-- Back Defense: 271
-- Front Defense: 269
+soulBindRate: 11.3
+- Critical Damage Defense: 276
+- Natural MP Regen: 25
 - Critical Hit: 33
-- Revitalization Contract: 1 [SKILL]
+- MP: 100
 
 === 6 | Nuakum Greaves +10 | Legs ===
-soulBindRate: 12.4
-- Endurance: 2.9%
+soulBindRate: 35.4
+- HP: 185
 - Attack increase: 2.1%
-- MP: 93
-- Status Effect Resist: 6.2%
+- Perfect Chance: 4.3%
+- Robe of Earth: 1 [SKILL]
 
 === 7 | Nuakum Gloves +10 | Gloves ===
 soulBindRate: 18.5
@@ -60,11 +60,11 @@ soulBindRate: 12.7
 - HP: 162
 
 === 10 | Enraged Kromede Necklace +10 | Necklace ===
-soulBindRate: 13.9
-- Natural MP Regen: 31
-- Attack: 25
-- Critical Hit Resist: 55
-- MP: 118
+soulBindRate: 25.4
+- HP: 264
+- Attack: 26
+- Precision: 10
+- Block: 31
 
 === 11 | Enraged Kromede Earrings +10 | Earrings ===
 soulBindRate: 66.6
@@ -81,15 +81,15 @@ soulBindRate: 28.3
 - Precision: 8
 
 === 13 | Enraged Kromede Ring +14 | Ring ===
-soulBindRate: 79.8
+soulBindRate: 70.7
 - Might: 12
-- Defense: 234
+- Flight Power: 212
 - Firestorm: 1 [SKILL]
 - Wish of Concentration: 1 [SKILL]
 
 === 14 | Enraged Kromede Ring +11 | Ring ===
-soulBindRate: 83.3
-- HP: 178
+soulBindRate: 80.3
+- Accuracy: 39
 - Ice Chain: 1 [SKILL]
 - Flame Scattershot: 1 [SKILL]
 - Flame Arrow: 1 [SKILL]
