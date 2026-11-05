@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-05T17:08:09.548994+00:00
+source_fetched_at: 2026-11-05T19:08:16.859161+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -10,19 +10,19 @@ soulBindRate: 100
 - Weapon Damage Boost: 8.9%
 - Combat Speed: 11.9%
 
-=== 2 | Nuakum Guard +10 | Guard ===
-soulBindRate: 87.4
-- Critical Hit: 54
-- Accuracy: 73
+=== 2 | Nuakum Guard +15 | Guard ===
+soulBindRate: 100
+- Critical Hit: 58
+- Accuracy: 76
 - Combat Speed: 9.6%
 - Multi-hit Chance: 7.3%
 
 === 3 | Nuakum Helm +15 | Helm ===
-soulBindRate: 26.4
-- Double Chance: 1.8%
-- Critical Hit: 28
-- Accuracy: 42
-- HP: 184
+soulBindRate: 94.8
+- Double Chance: 2%
+- Critical Hit: 39
+- Accuracy: 50
+- HP: 200
 
 === 4 | Nuakum Pauldrons +15 | Pauldrons ===
 soulBindRate: 6
