@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-05T23:59:17.627751+00:00",
+  "source_fetched_at": "2026-11-06T00:24:15.784290+00:00",
   "item_count": 21,
   "items": [
     {
@@ -262,12 +262,12 @@
       "grade": "Unique",
       "category": "Necklace",
       "enchant_level": 10,
-      "soulbind_rate": "25.4",
+      "soulbind_rate": "13.6",
       "soulbindings": [
         {
-          "name": "HP",
-          "value": "264",
-          "id": "HPMax"
+          "name": "Combat Speed",
+          "value": "3.6%",
+          "id": "CombatSpeed"
         },
         {
           "name": "Attack",
@@ -280,9 +280,9 @@
           "id": "AGI"
         },
         {
-          "name": "Block",
-          "value": "31",
-          "id": "Block"
+          "name": "MP",
+          "value": "119",
+          "id": "MPMax"
         }
       ],
       "skill_soulbindings": []
