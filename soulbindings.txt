@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-06T03:07:48.794455+00:00
+source_fetched_at: 2026-11-06T05:07:54.970357+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -108,11 +108,11 @@ soulBindRate: 100
 - Natural MP Regen: 8
 
 === 19 | Nuakum Cloak +10 | Cloak ===
-soulBindRate: 46.1
+soulBindRate: 36.8
 - Double Chance: 1.4%
 - Defense: 197
-- Willpower: 16
-- Cold Snap: 1 [SKILL]
+- Evasion: 23
+- Block: 18
 
 === 41 | Chalice of Vigor +4 | Chalice ===
 soulBindRate: 100
