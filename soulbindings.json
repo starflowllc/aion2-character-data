@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-06T03:07:48.794455+00:00",
+  "source_fetched_at": "2026-11-06T05:07:54.970357+00:00",
   "item_count": 21,
   "items": [
     {
@@ -477,7 +477,7 @@
       "grade": "Unique",
       "category": "Cloak",
       "enchant_level": 10,
-      "soulbind_rate": "46.1",
+      "soulbind_rate": "36.8",
       "soulbindings": [
         {
           "name": "Double Chance",
@@ -490,18 +490,17 @@
           "id": "ArmorDefense"
         },
         {
-          "name": "Willpower",
-          "value": "16",
-          "id": "WIS"
+          "name": "Evasion",
+          "value": "23",
+          "id": "ArmorEvasion"
+        },
+        {
+          "name": "Block",
+          "value": "18",
+          "id": "Block"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Cold Snap",
-          "value": "1",
-          "id": "15730000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "41",
