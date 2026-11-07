@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-07T17:08:50.181617+00:00",
+  "source_fetched_at": "2026-11-07T19:08:52.627950+00:00",
   "item_count": 21,
   "items": [
     {
@@ -136,31 +136,32 @@
       "name": "Nuakum Breastplate",
       "grade": "Unique",
       "category": "Top",
-      "enchant_level": 10,
-      "soulbind_rate": "11.3",
+      "enchant_level": 15,
+      "soulbind_rate": "28",
       "soulbindings": [
         {
-          "name": "Critical Damage Defense",
-          "value": "276",
-          "id": "CriticalDamageDefense"
+          "name": "Attack",
+          "value": "22",
+          "id": "WeaponFixingDamage"
         },
         {
-          "name": "Natural MP Regen",
-          "value": "25",
-          "id": "MPRegen"
+          "name": "Back Defense",
+          "value": "269",
+          "id": "BackAttackDefense"
         },
         {
-          "name": "Critical Hit",
-          "value": "33",
-          "id": "Critical"
-        },
-        {
-          "name": "MP",
-          "value": "100",
-          "id": "MPMax"
+          "name": "Status Effect Resist",
+          "value": "6.8%",
+          "id": "AbnormalResistance"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "1",
+          "id": "15740000"
+        }
+      ]
     },
     {
       "slot": "6",
@@ -168,13 +169,8 @@
       "grade": "Unique",
       "category": "Legs",
       "enchant_level": 10,
-      "soulbind_rate": "35.4",
+      "soulbind_rate": "59.8",
       "soulbindings": [
-        {
-          "name": "HP",
-          "value": "185",
-          "id": "HPMax"
-        },
         {
           "name": "Attack increase",
           "value": "2.1%",
@@ -191,6 +187,11 @@
           "name": "Robe of Earth",
           "value": "1",
           "id": "15720000"
+        },
+        {
+          "name": "Robe of Cold",
+          "value": "1",
+          "id": "15750000"
         }
       ]
     },
