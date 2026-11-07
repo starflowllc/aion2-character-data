@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-07T19:08:52.627950+00:00",
+  "source_fetched_at": "2026-11-07T21:08:56.792475+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,7 +137,7 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "28",
+      "soulbind_rate": "56.1",
       "soulbindings": [
         {
           "name": "Attack",
@@ -145,14 +145,9 @@
           "id": "WeaponFixingDamage"
         },
         {
-          "name": "Back Defense",
-          "value": "269",
-          "id": "BackAttackDefense"
-        },
-        {
-          "name": "Status Effect Resist",
-          "value": "6.8%",
-          "id": "AbnormalResistance"
+          "name": "Critical Hit",
+          "value": "34",
+          "id": "Critical"
         }
       ],
       "skill_soulbindings": [
@@ -160,6 +155,11 @@
           "name": "Robe of Flame",
           "value": "1",
           "id": "15740000"
+        },
+        {
+          "name": "Robe of Earth",
+          "value": "1",
+          "id": "15720000"
         }
       ]
     },
@@ -201,7 +201,7 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 10,
-      "soulbind_rate": "18.5",
+      "soulbind_rate": "27.2",
       "soulbindings": [
         {
           "name": "Critical Hit Resist",
@@ -209,9 +209,9 @@
           "id": "CriticalResist"
         },
         {
-          "name": "Defense",
-          "value": "159",
-          "id": "ArmorDefense"
+          "name": "Endurance Penetration",
+          "value": "1.4%",
+          "id": "IgnoreIronWall"
         },
         {
           "name": "Combat Speed",
@@ -219,9 +219,9 @@
           "id": "CombatSpeed"
         },
         {
-          "name": "Regeneration",
-          "value": "1.4%",
-          "id": "Restoration"
+          "name": "MP",
+          "value": "65",
+          "id": "MPMax"
         }
       ],
       "skill_soulbindings": []
