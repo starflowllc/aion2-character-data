@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-07T01:08:26.710605+00:00
+source_fetched_at: 2026-11-07T03:08:31.512594+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -81,9 +81,9 @@ soulBindRate: 28.3
 - Precision: 8
 
 === 13 | Enraged Kromede Ring +15 | Ring ===
-soulBindRate: 70.7
+soulBindRate: 74.8
 - Might: 12
-- Flight Power: 212
+- Accuracy: 39
 - Firestorm: 1 [SKILL]
 - Wish of Concentration: 1 [SKILL]
 
