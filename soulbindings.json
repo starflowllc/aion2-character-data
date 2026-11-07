@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-07T01:08:26.710605+00:00",
+  "source_fetched_at": "2026-11-07T03:08:31.512594+00:00",
   "item_count": 21,
   "items": [
     {
@@ -356,7 +356,7 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "70.7",
+      "soulbind_rate": "74.8",
       "soulbindings": [
         {
           "name": "Might",
@@ -364,9 +364,9 @@
           "id": "STR"
         },
         {
-          "name": "Flight Power",
-          "value": "212",
-          "id": "FPMax"
+          "name": "Accuracy",
+          "value": "39",
+          "id": "WeaponAccuracy"
         }
       ],
       "skill_soulbindings": [
