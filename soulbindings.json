@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-07T23:08:59.277272+00:00",
+  "source_fetched_at": "2026-11-08T01:09:20.977719+00:00",
   "item_count": 21,
   "items": [
     {
@@ -201,7 +201,7 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 10,
-      "soulbind_rate": "27.2",
+      "soulbind_rate": "40.4",
       "soulbindings": [
         {
           "name": "Critical Hit Resist",
@@ -217,14 +217,15 @@
           "name": "Combat Speed",
           "value": "6%",
           "id": "CombatSpeed"
-        },
-        {
-          "name": "MP",
-          "value": "65",
-          "id": "MPMax"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Fire Mark",
+          "value": "1",
+          "id": "15710000"
+        }
+      ]
     },
     {
       "slot": "8",
@@ -390,16 +391,21 @@
     },
     {
       "slot": "14",
-      "name": "Enraged Kromede Ring",
+      "name": "White Dragon Lord Ring",
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "80.3",
+      "soulbind_rate": "71.4",
       "soulbindings": [
         {
           "name": "Accuracy",
           "value": "39",
           "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Intelligence",
+          "value": "9",
+          "id": "INT"
         }
       ],
       "skill_soulbindings": [
