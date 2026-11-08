@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-08T15:10:40.317574+00:00
+source_fetched_at: 2026-11-08T17:10:46.400765+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -46,13 +46,13 @@ soulBindRate: 59.8
 - Robe of Cold: 1 [SKILL]
 
 === 7 | Nuakum Gloves +10 | Gloves ===
-soulBindRate: 40.4
-- Critical Hit Resist: 30
-- Endurance Penetration: 1.4%
+soulBindRate: 23.3
+- Natural MP Regen: 16
+- Attack: 14
 - Combat Speed: 6%
-- Fire Mark: 1 [SKILL]
+- Front Defense: 163
 
-=== 8 | Nuakum Boots +11 | Shoes ===
+=== 8 | Nuakum Boots +15 | Shoes ===
 soulBindRate: 12.7
 - Dexterity: 18
 - Move Speed: 8.4%
@@ -88,10 +88,10 @@ soulBindRate: 71.7
 - Firestorm: 1 [SKILL]
 - Wish of Concentration: 1 [SKILL]
 
-=== 14 | White Dragon Lord Ring +15 | Ring ===
-soulBindRate: 71.4
+=== 14 | Splendent White Dragon Lord Ring +15 | Ring ===
+soulBindRate: 68.1
 - Accuracy: 39
-- Intelligence: 9
+- Intelligence: 10
 - Ice Chain: 1 [SKILL]
 - Flame Scattershot: 1 [SKILL]
 - Flame Arrow: 1 [SKILL]
@@ -116,19 +116,19 @@ soulBindRate: 36.8
 - Evasion: 23
 - Block: 18
 
-=== 41 | Chalice of Vigor +4 | Chalice ===
+=== 41 | Chalice of Vigor +5 | Chalice ===
 soulBindRate: 100
 - Wish of Concentration: 2 [SKILL]
 - Grace of Resistance: 2 [SKILL]
 - Robe of Flame: 2 [SKILL]
-- Grace of Enhancement: 2 [SKILL]
+- Grace of Enhancement: 3 [SKILL]
 
-=== 42 | Parchment of Magic +5 | Parchment ===
+=== 42 | Parchment of Vigor +5 | Parchment ===
 soulBindRate: 100
+- Hellfire: 3 [SKILL]
+- Blaze: 2 [SKILL]
 - Firestorm: 2 [SKILL]
-- Wish of Concentration: 1 [SKILL]
-- Hellfire: 4 [SKILL]
-- Frost Burst: 2 [SKILL]
+- Flame Arrow: 2 [SKILL]
 
 === 43 | Compass of Magic +4 | Compass ===
 soulBindRate: 100
