@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-07T21:08:56.792475+00:00",
+  "source_fetched_at": "2026-11-07T23:08:59.277272+00:00",
   "item_count": 21,
   "items": [
     {
@@ -353,11 +353,11 @@
     },
     {
       "slot": "13",
-      "name": "Enraged Kromede Ring",
+      "name": "Splendent White Dragon Lord Ring",
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "74.8",
+      "soulbind_rate": "71.7",
       "soulbindings": [
         {
           "name": "Might",
@@ -368,6 +368,11 @@
           "name": "Accuracy",
           "value": "39",
           "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "32",
+          "id": "Critical"
         }
       ],
       "skill_soulbindings": [
