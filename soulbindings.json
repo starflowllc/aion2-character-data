@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-09T19:12:20.611730+00:00",
+  "source_fetched_at": "2026-11-09T21:12:51.337308+00:00",
   "item_count": 21,
   "items": [
     {
@@ -262,7 +262,7 @@
       "name": "Enraged Kromede Necklace",
       "grade": "Unique",
       "category": "Necklace",
-      "enchant_level": 14,
+      "enchant_level": 15,
       "soulbind_rate": "13.6",
       "soulbindings": [
         {
@@ -578,7 +578,7 @@
     },
     {
       "slot": "43",
-      "name": "Compass of Magic",
+      "name": "Compass of Vigor",
       "grade": "Unique",
       "category": "Compass",
       "enchant_level": 5,
@@ -591,19 +591,19 @@
           "id": "15010000"
         },
         {
+          "name": "Winter's Shackles",
+          "value": "2",
+          "id": "15110000"
+        },
+        {
           "name": "Bittercold Wind",
-          "value": "4",
+          "value": "1",
           "id": "15280000"
         },
         {
           "name": "Ice Chain",
-          "value": "1",
+          "value": "4",
           "id": "15090000"
-        },
-        {
-          "name": "Winter's Shackles",
-          "value": "2",
-          "id": "15110000"
         }
       ]
     },
@@ -623,18 +623,18 @@
         },
         {
           "name": "Grace of Resistance",
-          "value": "1",
+          "value": "2",
           "id": "15770000"
         },
         {
-          "name": "Cold Snap",
+          "name": "Robe of Cold",
           "value": "3",
-          "id": "15730000"
+          "id": "15750000"
         },
         {
-          "name": "Revitalization Contract",
-          "value": "2",
-          "id": "15790000"
+          "name": "Cold Snap",
+          "value": "1",
+          "id": "15730000"
         }
       ]
     },
