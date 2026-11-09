@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-09T01:11:43.214160+00:00",
+  "source_fetched_at": "2026-11-09T03:11:49.382547+00:00",
   "item_count": 21,
   "items": [
     {
@@ -488,7 +488,7 @@
       "grade": "Unique",
       "category": "Cloak",
       "enchant_level": 10,
-      "soulbind_rate": "36.8",
+      "soulbind_rate": "56.1",
       "soulbindings": [
         {
           "name": "Double Chance",
@@ -501,17 +501,18 @@
           "id": "ArmorDefense"
         },
         {
-          "name": "Evasion",
-          "value": "23",
-          "id": "ArmorEvasion"
-        },
-        {
-          "name": "Block",
-          "value": "18",
-          "id": "Block"
+          "name": "Dexterity",
+          "value": "20",
+          "id": "DEX"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "1",
+          "id": "15740000"
+        }
+      ]
     },
     {
       "slot": "41",
