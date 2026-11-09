@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-08T21:11:18.863941+00:00
+source_fetched_at: 2026-11-08T23:11:39.463880+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -123,17 +123,17 @@ soulBindRate: 100
 - Robe of Flame: 2 [SKILL]
 - Grace of Enhancement: 3 [SKILL]
 
-=== 42 | Parchment of Vigor +5 | Parchment ===
+=== 42 | Parchment of Magic +5 | Parchment ===
 soulBindRate: 100
-- Hellfire: 3 [SKILL]
-- Blaze: 2 [SKILL]
 - Firestorm: 2 [SKILL]
-- Flame Arrow: 2 [SKILL]
+- Wish of Concentration: 3 [SKILL]
+- Hellfire: 3 [SKILL]
+- Blaze: 1 [SKILL]
 
-=== 43 | Compass of Magic +4 | Compass ===
+=== 43 | Compass of Magic +5 | Compass ===
 soulBindRate: 100
 - Flame Scattershot: 2 [SKILL]
-- Bittercold Wind: 3 [SKILL]
+- Bittercold Wind: 4 [SKILL]
 - Ice Chain: 1 [SKILL]
 - Winter's Shackles: 2 [SKILL]
 
