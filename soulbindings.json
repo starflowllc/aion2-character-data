@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-08T21:11:18.863941+00:00",
+  "source_fetched_at": "2026-11-08T23:11:39.463880+00:00",
   "item_count": 21,
   "items": [
     {
@@ -546,7 +546,7 @@
     },
     {
       "slot": "42",
-      "name": "Parchment of Vigor",
+      "name": "Parchment of Magic",
       "grade": "Unique",
       "category": "Parchment",
       "enchant_level": 5,
@@ -554,24 +554,24 @@
       "soulbindings": [],
       "skill_soulbindings": [
         {
+          "name": "Firestorm",
+          "value": "2",
+          "id": "15040000"
+        },
+        {
+          "name": "Wish of Concentration",
+          "value": "3",
+          "id": "15310000"
+        },
+        {
           "name": "Hellfire",
           "value": "3",
           "id": "15060000"
         },
         {
           "name": "Blaze",
-          "value": "2",
+          "value": "1",
           "id": "15050000"
-        },
-        {
-          "name": "Firestorm",
-          "value": "2",
-          "id": "15040000"
-        },
-        {
-          "name": "Flame Arrow",
-          "value": "2",
-          "id": "15210000"
         }
       ]
     },
@@ -580,7 +580,7 @@
       "name": "Compass of Magic",
       "grade": "Unique",
       "category": "Compass",
-      "enchant_level": 4,
+      "enchant_level": 5,
       "soulbind_rate": "100",
       "soulbindings": [],
       "skill_soulbindings": [
@@ -591,7 +591,7 @@
         },
         {
           "name": "Bittercold Wind",
-          "value": "3",
+          "value": "4",
           "id": "15280000"
         },
         {
