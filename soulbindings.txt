@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-10T15:14:27.573620+00:00
+source_fetched_at: 2026-11-10T17:14:36.585811+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -144,9 +144,9 @@ soulBindRate: 100
 - Robe of Cold: 3 [SKILL]
 - Cold Snap: 1 [SKILL]
 
-=== 45 | Mirror of Vigor +4 | Mirror ===
+=== 45 | Mirror of Vigor +5 | Mirror ===
 soulBindRate: 100
 - Robe of Earth: 3 [SKILL]
-- Vitality Evaporation: 1 [SKILL]
+- Vitality Evaporation: 2 [SKILL]
 - Grace of Enhancement: 2 [SKILL]
 - Robe of Flame: 2 [SKILL]
