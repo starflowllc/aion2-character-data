@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-10T13:14:21.664010+00:00
+source_fetched_at: 2026-11-10T15:14:27.573620+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -46,11 +46,11 @@ soulBindRate: 59.8
 - Robe of Cold: 1 [SKILL]
 
 === 7 | Nuakum Gloves +10 | Gloves ===
-soulBindRate: 23.3
-- Natural MP Regen: 16
+soulBindRate: 52.9
+- MP: 69
 - Attack: 14
 - Combat Speed: 6%
-- Front Defense: 163
+- Fire Mark: 1 [SKILL]
 
 === 8 | Nuakum Boots +15 | Shoes ===
 soulBindRate: 12.7
@@ -89,12 +89,12 @@ soulBindRate: 71.7
 - Wish of Concentration: 1 [SKILL]
 
 === 14 | Splendent White Dragon Lord Ring +15 | Ring ===
-soulBindRate: 68.1
-- Accuracy: 39
-- Intelligence: 10
-- Ice Chain: 1 [SKILL]
-- Flame Scattershot: 1 [SKILL]
-- Flame Arrow: 1 [SKILL]
+soulBindRate: 44.5
+- HP: 169
+- Critical Hit Resist: 44
+- Evasion: 23
+- Attack: 19
+- Wish of Concentration: 1 [SKILL]
 
 === 15 | Ascension Bracelet +15 | Bracelet ===
 soulBindRate: 100
@@ -110,10 +110,10 @@ soulBindRate: 100
 - Natural MP Regen: 8
 
 === 19 | Nuakum Cloak +11 | Cloak ===
-soulBindRate: 56.1
-- Double Chance: 1.4%
-- Defense: 197
-- Dexterity: 20
+soulBindRate: 100
+- Double Chance: 1.7%
+- Attack increase: 1.7%
+- Critical Hit: 32
 - Robe of Flame: 1 [SKILL]
 
 === 41 | Chalice of Vigor +5 | Chalice ===
