@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-10T13:14:21.664010+00:00",
+  "source_fetched_at": "2026-11-10T15:14:27.573620+00:00",
   "item_count": 21,
   "items": [
     {
@@ -201,12 +201,12 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 10,
-      "soulbind_rate": "23.3",
+      "soulbind_rate": "52.9",
       "soulbindings": [
         {
-          "name": "Natural MP Regen",
-          "value": "16",
-          "id": "MPRegen"
+          "name": "MP",
+          "value": "69",
+          "id": "MPMax"
         },
         {
           "name": "Attack",
@@ -217,14 +217,15 @@
           "name": "Combat Speed",
           "value": "6%",
           "id": "CombatSpeed"
-        },
-        {
-          "name": "Front Defense",
-          "value": "163",
-          "id": "FrontAttackDefense"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Fire Mark",
+          "value": "1",
+          "id": "15710000"
+        }
+      ]
     },
     {
       "slot": "8",
@@ -394,34 +395,34 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "68.1",
+      "soulbind_rate": "44.5",
       "soulbindings": [
         {
-          "name": "Accuracy",
-          "value": "39",
-          "id": "WeaponAccuracy"
+          "name": "HP",
+          "value": "169",
+          "id": "HPMax"
         },
         {
-          "name": "Intelligence",
-          "value": "10",
-          "id": "INT"
+          "name": "Critical Hit Resist",
+          "value": "44",
+          "id": "CriticalResist"
+        },
+        {
+          "name": "Evasion",
+          "value": "23",
+          "id": "ArmorEvasion"
+        },
+        {
+          "name": "Attack",
+          "value": "19",
+          "id": "WeaponFixingDamage"
         }
       ],
       "skill_soulbindings": [
         {
-          "name": "Ice Chain",
+          "name": "Wish of Concentration",
           "value": "1",
-          "id": "15090000"
-        },
-        {
-          "name": "Flame Scattershot",
-          "value": "1",
-          "id": "15010000"
-        },
-        {
-          "name": "Flame Arrow",
-          "value": "1",
-          "id": "15210000"
+          "id": "15310000"
         }
       ]
     },
@@ -488,22 +489,22 @@
       "grade": "Unique",
       "category": "Cloak",
       "enchant_level": 11,
-      "soulbind_rate": "56.1",
+      "soulbind_rate": "100",
       "soulbindings": [
         {
           "name": "Double Chance",
-          "value": "1.4%",
+          "value": "1.7%",
           "id": "HardHit"
         },
         {
-          "name": "Defense",
-          "value": "197",
-          "id": "ArmorDefense"
+          "name": "Attack increase",
+          "value": "1.7%",
+          "id": "DamageRatio"
         },
         {
-          "name": "Dexterity",
-          "value": "20",
-          "id": "DEX"
+          "name": "Critical Hit",
+          "value": "32",
+          "id": "Critical"
         }
       ],
       "skill_soulbindings": [
