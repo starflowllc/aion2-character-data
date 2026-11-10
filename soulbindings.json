@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-10T15:14:27.573620+00:00",
+  "source_fetched_at": "2026-11-10T17:14:36.585811+00:00",
   "item_count": 21,
   "items": [
     {
@@ -644,7 +644,7 @@
       "name": "Mirror of Vigor",
       "grade": "Unique",
       "category": "Mirror",
-      "enchant_level": 4,
+      "enchant_level": 5,
       "soulbind_rate": "100",
       "soulbindings": [],
       "skill_soulbindings": [
@@ -655,7 +655,7 @@
         },
         {
           "name": "Vitality Evaporation",
-          "value": "1",
+          "value": "2",
           "id": "15800000"
         },
         {
