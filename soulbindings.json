@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-11T19:17:19.799898+00:00",
+  "source_fetched_at": "2026-11-11T21:17:47.656242+00:00",
   "item_count": 21,
   "items": [
     {
@@ -294,7 +294,7 @@
       "name": "Enraged Kromede Earrings",
       "grade": "Unique",
       "category": "Earrings",
-      "enchant_level": 11,
+      "enchant_level": 15,
       "soulbind_rate": "66.6",
       "soulbindings": [
         {
@@ -326,7 +326,7 @@
       "name": "Enraged Kromede Earrings",
       "grade": "Unique",
       "category": "Earrings",
-      "enchant_level": 11,
+      "enchant_level": 14,
       "soulbind_rate": "28.3",
       "soulbindings": [
         {
@@ -395,22 +395,22 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "29.9",
+      "soulbind_rate": "28.1",
       "soulbindings": [
         {
-          "name": "HP",
-          "value": "178",
-          "id": "HPMax"
+          "name": "Block",
+          "value": "24",
+          "id": "Block"
         },
         {
-          "name": "Critical Hit Resist",
-          "value": "44",
-          "id": "CriticalResist"
+          "name": "Defense",
+          "value": "237",
+          "id": "ArmorDefense"
         },
         {
-          "name": "Evasion",
-          "value": "23",
-          "id": "ArmorEvasion"
+          "name": "Natural HP Regen",
+          "value": "41",
+          "id": "HPRegen"
         },
         {
           "name": "Attack",
