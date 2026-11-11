@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-10T23:15:30.626485+00:00",
+  "source_fetched_at": "2026-11-11T01:15:37.312548+00:00",
   "item_count": 21,
   "items": [
     {
@@ -391,15 +391,15 @@
     },
     {
       "slot": "14",
-      "name": "Splendent White Dragon Lord Ring",
+      "name": "Splendent Wise Dragon Lord Ring",
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "44.5",
+      "soulbind_rate": "29.9",
       "soulbindings": [
         {
           "name": "HP",
-          "value": "169",
+          "value": "178",
           "id": "HPMax"
         },
         {
