@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-11T19:17:19.799898+00:00
+source_fetched_at: 2026-11-11T21:17:47.656242+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -66,14 +66,14 @@ soulBindRate: 13.6
 - Precision: 10
 - MP: 119
 
-=== 11 | Enraged Kromede Earrings +11 | Earrings ===
+=== 11 | Enraged Kromede Earrings +15 | Earrings ===
 soulBindRate: 66.6
 - Might: 11
 - Precision: 9
 - Robe of Cold: 1 [SKILL]
 - Vitality Evaporation: 1 [SKILL]
 
-=== 12 | Enraged Kromede Earrings +11 | Earrings ===
+=== 12 | Enraged Kromede Earrings +14 | Earrings ===
 soulBindRate: 28.3
 - Might: 9
 - Defense: 264
@@ -89,10 +89,10 @@ soulBindRate: 63.6
 - Wish of Concentration: 1 [SKILL]
 
 === 14 | Splendent Wise Dragon Lord Ring +15 | Ring ===
-soulBindRate: 29.9
-- HP: 178
-- Critical Hit Resist: 44
-- Evasion: 23
+soulBindRate: 28.1
+- Block: 24
+- Defense: 237
+- Natural HP Regen: 41
 - Attack: 19
 - Wish of Concentration: 1 [SKILL]
 
