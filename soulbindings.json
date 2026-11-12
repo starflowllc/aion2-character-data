@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-11T23:17:49.866567+00:00",
+  "source_fetched_at": "2026-11-12T01:17:52.906364+00:00",
   "item_count": 21,
   "items": [
     {
@@ -200,7 +200,7 @@
       "name": "Nuakum Gloves",
       "grade": "Unique",
       "category": "Gloves",
-      "enchant_level": 10,
+      "enchant_level": 12,
       "soulbind_rate": "52.9",
       "soulbindings": [
         {
@@ -326,7 +326,7 @@
       "name": "Enraged Kromede Earrings",
       "grade": "Unique",
       "category": "Earrings",
-      "enchant_level": 14,
+      "enchant_level": 15,
       "soulbind_rate": "28.3",
       "soulbindings": [
         {
