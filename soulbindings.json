@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-12T01:17:52.906364+00:00",
+  "source_fetched_at": "2026-11-12T03:17:55.339816+00:00",
   "item_count": 21,
   "items": [
     {
@@ -201,11 +201,11 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 12,
-      "soulbind_rate": "52.9",
+      "soulbind_rate": "42.6",
       "soulbindings": [
         {
           "name": "MP",
-          "value": "69",
+          "value": "62",
           "id": "MPMax"
         },
         {
