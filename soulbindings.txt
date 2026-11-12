@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-12T01:17:52.906364+00:00
+source_fetched_at: 2026-11-12T03:17:55.339816+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -46,8 +46,8 @@ soulBindRate: 59.8
 - Robe of Cold: 1 [SKILL]
 
 === 7 | Nuakum Gloves +12 | Gloves ===
-soulBindRate: 52.9
-- MP: 69
+soulBindRate: 42.6
+- MP: 62
 - Attack: 14
 - Combat Speed: 6%
 - Fire Mark: 1 [SKILL]
