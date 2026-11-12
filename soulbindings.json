@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-12T03:17:55.339816+00:00",
+  "source_fetched_at": "2026-11-12T05:18:15.962402+00:00",
   "item_count": 21,
   "items": [
     {
@@ -168,7 +168,7 @@
       "name": "Nuakum Greaves",
       "grade": "Unique",
       "category": "Legs",
-      "enchant_level": 11,
+      "enchant_level": 12,
       "soulbind_rate": "59.8",
       "soulbindings": [
         {
@@ -200,7 +200,7 @@
       "name": "Nuakum Gloves",
       "grade": "Unique",
       "category": "Gloves",
-      "enchant_level": 12,
+      "enchant_level": 13,
       "soulbind_rate": "42.6",
       "soulbindings": [
         {
@@ -295,6 +295,37 @@
       "grade": "Unique",
       "category": "Earrings",
       "enchant_level": 15,
+      "soulbind_rate": "28.3",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "9",
+          "id": "STR"
+        },
+        {
+          "name": "Defense",
+          "value": "264",
+          "id": "ArmorDefense"
+        },
+        {
+          "name": "HP",
+          "value": "229",
+          "id": "HPMax"
+        },
+        {
+          "name": "Precision",
+          "value": "8",
+          "id": "AGI"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "12",
+      "name": "Enraged Kromede Earrings",
+      "grade": "Unique",
+      "category": "Earrings",
+      "enchant_level": 15,
       "soulbind_rate": "66.6",
       "soulbindings": [
         {
@@ -322,43 +353,12 @@
       ]
     },
     {
-      "slot": "12",
-      "name": "Enraged Kromede Earrings",
-      "grade": "Unique",
-      "category": "Earrings",
-      "enchant_level": 15,
-      "soulbind_rate": "28.3",
-      "soulbindings": [
-        {
-          "name": "Might",
-          "value": "9",
-          "id": "STR"
-        },
-        {
-          "name": "Defense",
-          "value": "264",
-          "id": "ArmorDefense"
-        },
-        {
-          "name": "HP",
-          "value": "229",
-          "id": "HPMax"
-        },
-        {
-          "name": "Precision",
-          "value": "8",
-          "id": "AGI"
-        }
-      ],
-      "skill_soulbindings": []
-    },
-    {
       "slot": "13",
       "name": "Splendent Wise Dragon Lord Ring",
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "63.6",
+      "soulbind_rate": "69.4",
       "soulbindings": [
         {
           "name": "Might",
@@ -366,9 +366,9 @@
           "id": "STR"
         },
         {
-          "name": "Accuracy",
-          "value": "39",
-          "id": "WeaponAccuracy"
+          "name": "Natural MP Regen",
+          "value": "24",
+          "id": "MPRegen"
         },
         {
           "name": "Critical Hit",
@@ -488,7 +488,7 @@
       "name": "Nuakum Cloak",
       "grade": "Unique",
       "category": "Cloak",
-      "enchant_level": 11,
+      "enchant_level": 15,
       "soulbind_rate": "100",
       "soulbindings": [
         {
