@@ -1,35 +1,6 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-12T19:19:19.762445+00:00
-item_count: 21
-
-=== 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
-soulBindRate: 100
-- Might: 30
-- Damage Boost: 6.7%
-- Accuracy: 91
-- Weapon Damage Boost: 8.9%
-- Combat Speed: 11.9%
-
-=== 2 | Nuakum Guard +15 | Guard ===
-soulBindRate: 100
-- Critical Hit: 58
-- Accuracy: 76
-- Combat Speed: 9.6%
-- Multi-hit Chance: 7.3%
-
-=== 3 | Nuakum Helm +15 | Helm ===
-soulBindRate: 94.8
-- Double Chance: 2%
-- Critical Hit: 39
-- Accuracy: 50
-- HP: 200
-
-=== 4 | Nuakum Pauldrons +15 | Pauldrons ===
-soulBindRate: 6
-- Double Chance: 1.4%
-- Constitution: 9
-- Block: 18
-- Critical Damage Boost: 10.5%
+source_fetched_at: 2026-11-12T21:19:08.689488+00:00
+item_count: 4
 
 === 5 | Nuakum Breastplate +15 | Top ===
 soulBindRate: 56.1
@@ -38,63 +9,12 @@ soulBindRate: 56.1
 - Robe of Flame: 1 [SKILL]
 - Robe of Earth: 1 [SKILL]
 
-=== 6 | Nuakum Greaves +12 | Legs ===
-soulBindRate: 59.8
-- Attack increase: 2.1%
-- Perfect Chance: 4.3%
-- Robe of Earth: 1 [SKILL]
-- Robe of Cold: 1 [SKILL]
-
-=== 7 | Nuakum Gloves +13 | Gloves ===
-soulBindRate: 42.6
-- MP: 62
-- Attack: 14
-- Combat Speed: 6%
-- Fire Mark: 1 [SKILL]
-
-=== 8 | Nuakum Boots +15 | Shoes ===
-soulBindRate: 12.7
-- Dexterity: 18
-- Move Speed: 8.4%
-- Critical Damage Defense: 202
-- Accuracy: 37
-
-=== 10 | Enraged Kromede Necklace +15 | Necklace ===
-soulBindRate: 13.6
-- Combat Speed: 3.6%
-- Attack: 26
-- Precision: 10
-- MP: 119
-
 === 11 | Enraged Kromede Earrings +15 | Earrings ===
-soulBindRate: 28.3
-- Might: 9
-- Defense: 264
-- HP: 229
-- Precision: 8
-
-=== 12 | Enraged Kromede Earrings +15 | Earrings ===
 soulBindRate: 66.6
 - Might: 11
 - Precision: 9
 - Robe of Cold: 1 [SKILL]
 - Vitality Evaporation: 1 [SKILL]
-
-=== 13 | Splendent Wise Dragon Lord Ring +15 | Ring ===
-soulBindRate: 69.4
-- Might: 12
-- Natural MP Regen: 24
-- Critical Hit: 32
-- Firestorm: 1 [SKILL]
-- Wish of Concentration: 1 [SKILL]
-
-=== 14 | Splendent Wise Dragon Lord Ring +15 | Ring ===
-soulBindRate: 44.8
-- Block: 24
-- Defense: 237
-- MP: 106
-- Attack: 19
-- Wish of Concentration: 1 [SKILL]
 
 === 15 | Ascension Bracelet +15 | Bracelet ===
 soulBindRate: 100
@@ -108,45 +28,3 @@ soulBindRate: 100
 - Critical Hit: 8
 - MP: 22
 - Natural MP Regen: 8
-
-=== 19 | Nuakum Cloak +15 | Cloak ===
-soulBindRate: 100
-- Double Chance: 1.7%
-- Attack increase: 1.7%
-- Critical Hit: 32
-- Robe of Flame: 1 [SKILL]
-
-=== 41 | Chalice of Vigor +5 | Chalice ===
-soulBindRate: 100
-- Wish of Concentration: 2 [SKILL]
-- Grace of Resistance: 2 [SKILL]
-- Robe of Flame: 2 [SKILL]
-- Grace of Enhancement: 3 [SKILL]
-
-=== 42 | Parchment of Vigor +5 | Parchment ===
-soulBindRate: 100
-- Flame Arrow: 2 [SKILL]
-- Frost Burst: 2 [SKILL]
-- Wish of Concentration: 3 [SKILL]
-- Hellfire: 2 [SKILL]
-
-=== 43 | Compass of Vigor +5 | Compass ===
-soulBindRate: 100
-- Flame Scattershot: 2 [SKILL]
-- Winter's Shackles: 2 [SKILL]
-- Bittercold Wind: 1 [SKILL]
-- Ice Chain: 4 [SKILL]
-
-=== 44 | Bell of Magic +4 | Bell ===
-soulBindRate: 100
-- Fire Mark: 2 [SKILL]
-- Grace of Resistance: 2 [SKILL]
-- Robe of Cold: 3 [SKILL]
-- Cold Snap: 1 [SKILL]
-
-=== 45 | Mirror of Vigor +5 | Mirror ===
-soulBindRate: 100
-- Robe of Earth: 3 [SKILL]
-- Vitality Evaporation: 2 [SKILL]
-- Grace of Enhancement: 2 [SKILL]
-- Robe of Flame: 2 [SKILL]
