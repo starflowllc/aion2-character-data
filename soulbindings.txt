@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-11T23:17:49.866567+00:00
+source_fetched_at: 2026-11-12T01:17:52.906364+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -45,7 +45,7 @@ soulBindRate: 59.8
 - Robe of Earth: 1 [SKILL]
 - Robe of Cold: 1 [SKILL]
 
-=== 7 | Nuakum Gloves +10 | Gloves ===
+=== 7 | Nuakum Gloves +12 | Gloves ===
 soulBindRate: 52.9
 - MP: 69
 - Attack: 14
@@ -73,7 +73,7 @@ soulBindRate: 66.6
 - Robe of Cold: 1 [SKILL]
 - Vitality Evaporation: 1 [SKILL]
 
-=== 12 | Enraged Kromede Earrings +14 | Earrings ===
+=== 12 | Enraged Kromede Earrings +15 | Earrings ===
 soulBindRate: 28.3
 - Might: 9
 - Defense: 264
