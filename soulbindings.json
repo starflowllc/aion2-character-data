@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-11T21:17:47.656242+00:00",
+  "source_fetched_at": "2026-11-11T23:17:49.866567+00:00",
   "item_count": 21,
   "items": [
     {
@@ -395,7 +395,7 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "28.1",
+      "soulbind_rate": "44.8",
       "soulbindings": [
         {
           "name": "Block",
@@ -408,9 +408,9 @@
           "id": "ArmorDefense"
         },
         {
-          "name": "Natural HP Regen",
-          "value": "41",
-          "id": "HPRegen"
+          "name": "MP",
+          "value": "106",
+          "id": "MPMax"
         },
         {
           "name": "Attack",
