@@ -1,7 +1,136 @@
 {
-  "source_fetched_at": "2026-11-12T21:19:08.689488+00:00",
-  "item_count": 4,
+  "source_fetched_at": "2026-11-12T23:19:42.128493+00:00",
+  "item_count": 21,
   "items": [
+    {
+      "slot": "1",
+      "name": "Splendent White Dragon Lord Spellbook",
+      "grade": "Unique",
+      "category": "Spellbook",
+      "enchant_level": 15,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "30",
+          "id": "STR"
+        },
+        {
+          "name": "Damage Boost",
+          "value": "6.7%",
+          "id": "AmplifyAllDamage"
+        },
+        {
+          "name": "Accuracy",
+          "value": "91",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Weapon Damage Boost",
+          "value": "8.9%",
+          "id": "AmplifyWeaponDamage"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "11.9%",
+          "id": "CombatSpeed"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "2",
+      "name": "Nuakum Guard",
+      "grade": "Unique",
+      "category": "Guard",
+      "enchant_level": 15,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Critical Hit",
+          "value": "58",
+          "id": "Critical"
+        },
+        {
+          "name": "Accuracy",
+          "value": "76",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "9.6%",
+          "id": "CombatSpeed"
+        },
+        {
+          "name": "Multi-hit Chance",
+          "value": "7.3%",
+          "id": "AdditionalHitRate"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "3",
+      "name": "Nuakum Helm",
+      "grade": "Unique",
+      "category": "Helm",
+      "enchant_level": 15,
+      "soulbind_rate": "94.8",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "2%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "39",
+          "id": "Critical"
+        },
+        {
+          "name": "Accuracy",
+          "value": "50",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "HP",
+          "value": "200",
+          "id": "HPMax"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "4",
+      "name": "Nuakum Pauldrons",
+      "grade": "Unique",
+      "category": "Pauldrons",
+      "enchant_level": 15,
+      "soulbind_rate": "6",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "1.4%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Constitution",
+          "value": "9",
+          "id": "CON"
+        },
+        {
+          "name": "Block",
+          "value": "18",
+          "id": "Block"
+        },
+        {
+          "name": "Critical Damage Boost",
+          "value": "10.5%",
+          "id": "AmplifyCriticalDamage"
+        }
+      ],
+      "skill_soulbindings": []
+    },
     {
       "slot": "5",
       "name": "Nuakum Breastplate",
@@ -35,7 +164,164 @@
       ]
     },
     {
+      "slot": "6",
+      "name": "Nuakum Greaves",
+      "grade": "Unique",
+      "category": "Legs",
+      "enchant_level": 12,
+      "soulbind_rate": "59.8",
+      "soulbindings": [
+        {
+          "name": "Attack increase",
+          "value": "2.1%",
+          "id": "DamageRatio"
+        },
+        {
+          "name": "Perfect Chance",
+          "value": "4.3%",
+          "id": "Perfect"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Earth",
+          "value": "1",
+          "id": "15720000"
+        },
+        {
+          "name": "Robe of Cold",
+          "value": "1",
+          "id": "15750000"
+        }
+      ]
+    },
+    {
+      "slot": "7",
+      "name": "Nuakum Gloves",
+      "grade": "Unique",
+      "category": "Gloves",
+      "enchant_level": 13,
+      "soulbind_rate": "42.6",
+      "soulbindings": [
+        {
+          "name": "MP",
+          "value": "62",
+          "id": "MPMax"
+        },
+        {
+          "name": "Attack",
+          "value": "14",
+          "id": "WeaponFixingDamage"
+        },
+        {
+          "name": "Combat Speed",
+          "value": "6%",
+          "id": "CombatSpeed"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Fire Mark",
+          "value": "1",
+          "id": "15710000"
+        }
+      ]
+    },
+    {
+      "slot": "8",
+      "name": "Nuakum Boots",
+      "grade": "Unique",
+      "category": "Shoes",
+      "enchant_level": 15,
+      "soulbind_rate": "12.7",
+      "soulbindings": [
+        {
+          "name": "Dexterity",
+          "value": "18",
+          "id": "DEX"
+        },
+        {
+          "name": "Move Speed",
+          "value": "8.4%",
+          "id": "MoveSpeed"
+        },
+        {
+          "name": "Critical Damage Defense",
+          "value": "202",
+          "id": "CriticalDamageDefense"
+        },
+        {
+          "name": "Accuracy",
+          "value": "37",
+          "id": "WeaponAccuracy"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "10",
+      "name": "Enraged Kromede Necklace",
+      "grade": "Unique",
+      "category": "Necklace",
+      "enchant_level": 15,
+      "soulbind_rate": "13.6",
+      "soulbindings": [
+        {
+          "name": "Combat Speed",
+          "value": "3.6%",
+          "id": "CombatSpeed"
+        },
+        {
+          "name": "Attack",
+          "value": "26",
+          "id": "WeaponFixingDamage"
+        },
+        {
+          "name": "Precision",
+          "value": "10",
+          "id": "AGI"
+        },
+        {
+          "name": "MP",
+          "value": "119",
+          "id": "MPMax"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
       "slot": "11",
+      "name": "Enraged Kromede Earrings",
+      "grade": "Unique",
+      "category": "Earrings",
+      "enchant_level": 15,
+      "soulbind_rate": "28.3",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "9",
+          "id": "STR"
+        },
+        {
+          "name": "Defense",
+          "value": "264",
+          "id": "ArmorDefense"
+        },
+        {
+          "name": "HP",
+          "value": "229",
+          "id": "HPMax"
+        },
+        {
+          "name": "Precision",
+          "value": "8",
+          "id": "AGI"
+        }
+      ],
+      "skill_soulbindings": []
+    },
+    {
+      "slot": "12",
       "name": "Enraged Kromede Earrings",
       "grade": "Unique",
       "category": "Earrings",
@@ -63,6 +349,80 @@
           "name": "Vitality Evaporation",
           "value": "1",
           "id": "15800000"
+        }
+      ]
+    },
+    {
+      "slot": "13",
+      "name": "Splendent Wise Dragon Lord Ring",
+      "grade": "Unique",
+      "category": "Ring",
+      "enchant_level": 15,
+      "soulbind_rate": "69.4",
+      "soulbindings": [
+        {
+          "name": "Might",
+          "value": "12",
+          "id": "STR"
+        },
+        {
+          "name": "Natural MP Regen",
+          "value": "24",
+          "id": "MPRegen"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "32",
+          "id": "Critical"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Firestorm",
+          "value": "1",
+          "id": "15040000"
+        },
+        {
+          "name": "Wish of Concentration",
+          "value": "1",
+          "id": "15310000"
+        }
+      ]
+    },
+    {
+      "slot": "14",
+      "name": "Splendent Wise Dragon Lord Ring",
+      "grade": "Unique",
+      "category": "Ring",
+      "enchant_level": 15,
+      "soulbind_rate": "40.3",
+      "soulbindings": [
+        {
+          "name": "Natural HP Regen",
+          "value": "41",
+          "id": "HPRegen"
+        },
+        {
+          "name": "Block",
+          "value": "24",
+          "id": "Block"
+        },
+        {
+          "name": "Accuracy",
+          "value": "39",
+          "id": "WeaponAccuracy"
+        },
+        {
+          "name": "Defense",
+          "value": "264",
+          "id": "ArmorDefense"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Blaze",
+          "value": "1",
+          "id": "15050000"
         }
       ]
     },
@@ -122,6 +482,193 @@
         }
       ],
       "skill_soulbindings": []
+    },
+    {
+      "slot": "19",
+      "name": "Nuakum Cloak",
+      "grade": "Unique",
+      "category": "Cloak",
+      "enchant_level": 15,
+      "soulbind_rate": "100",
+      "soulbindings": [
+        {
+          "name": "Double Chance",
+          "value": "1.7%",
+          "id": "HardHit"
+        },
+        {
+          "name": "Attack increase",
+          "value": "1.7%",
+          "id": "DamageRatio"
+        },
+        {
+          "name": "Critical Hit",
+          "value": "32",
+          "id": "Critical"
+        }
+      ],
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "1",
+          "id": "15740000"
+        }
+      ]
+    },
+    {
+      "slot": "41",
+      "name": "Chalice of Vigor",
+      "grade": "Unique",
+      "category": "Chalice",
+      "enchant_level": 5,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Wish of Concentration",
+          "value": "2",
+          "id": "15310000"
+        },
+        {
+          "name": "Grace of Resistance",
+          "value": "2",
+          "id": "15770000"
+        },
+        {
+          "name": "Robe of Flame",
+          "value": "2",
+          "id": "15740000"
+        },
+        {
+          "name": "Grace of Enhancement",
+          "value": "3",
+          "id": "15780000"
+        }
+      ]
+    },
+    {
+      "slot": "42",
+      "name": "Parchment of Vigor",
+      "grade": "Unique",
+      "category": "Parchment",
+      "enchant_level": 5,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Flame Arrow",
+          "value": "2",
+          "id": "15210000"
+        },
+        {
+          "name": "Frost Burst",
+          "value": "2",
+          "id": "15220000"
+        },
+        {
+          "name": "Wish of Concentration",
+          "value": "3",
+          "id": "15310000"
+        },
+        {
+          "name": "Hellfire",
+          "value": "2",
+          "id": "15060000"
+        }
+      ]
+    },
+    {
+      "slot": "43",
+      "name": "Compass of Vigor",
+      "grade": "Unique",
+      "category": "Compass",
+      "enchant_level": 5,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Flame Scattershot",
+          "value": "2",
+          "id": "15010000"
+        },
+        {
+          "name": "Winter's Shackles",
+          "value": "2",
+          "id": "15110000"
+        },
+        {
+          "name": "Bittercold Wind",
+          "value": "1",
+          "id": "15280000"
+        },
+        {
+          "name": "Ice Chain",
+          "value": "4",
+          "id": "15090000"
+        }
+      ]
+    },
+    {
+      "slot": "44",
+      "name": "Bell of Magic",
+      "grade": "Unique",
+      "category": "Bell",
+      "enchant_level": 4,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Fire Mark",
+          "value": "2",
+          "id": "15710000"
+        },
+        {
+          "name": "Grace of Resistance",
+          "value": "2",
+          "id": "15770000"
+        },
+        {
+          "name": "Robe of Cold",
+          "value": "3",
+          "id": "15750000"
+        },
+        {
+          "name": "Cold Snap",
+          "value": "1",
+          "id": "15730000"
+        }
+      ]
+    },
+    {
+      "slot": "45",
+      "name": "Mirror of Vigor",
+      "grade": "Unique",
+      "category": "Mirror",
+      "enchant_level": 5,
+      "soulbind_rate": "100",
+      "soulbindings": [],
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Earth",
+          "value": "3",
+          "id": "15720000"
+        },
+        {
+          "name": "Vitality Evaporation",
+          "value": "2",
+          "id": "15800000"
+        },
+        {
+          "name": "Grace of Enhancement",
+          "value": "2",
+          "id": "15780000"
+        },
+        {
+          "name": "Robe of Flame",
+          "value": "2",
+          "id": "15740000"
+        }
+      ]
     }
   ]
 }
