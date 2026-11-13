@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-13T01:19:44.911870+00:00",
+  "source_fetched_at": "2026-11-13T03:19:47.625997+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,12 +137,12 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "56.1",
+      "soulbind_rate": "63.8",
       "soulbindings": [
         {
-          "name": "Attack",
-          "value": "22",
-          "id": "WeaponFixingDamage"
+          "name": "Dexterity",
+          "value": "14",
+          "id": "DEX"
         },
         {
           "name": "Critical Hit",
