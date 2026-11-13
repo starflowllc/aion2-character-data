@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-12T23:19:42.128493+00:00",
+  "source_fetched_at": "2026-11-13T01:19:44.911870+00:00",
   "item_count": 21,
   "items": [
     {
@@ -395,13 +395,8 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "40.3",
+      "soulbind_rate": "58.9",
       "soulbindings": [
-        {
-          "name": "Natural HP Regen",
-          "value": "41",
-          "id": "HPRegen"
-        },
         {
           "name": "Block",
           "value": "24",
@@ -423,6 +418,11 @@
           "name": "Blaze",
           "value": "1",
           "id": "15050000"
+        },
+        {
+          "name": "Hellfire",
+          "value": "1",
+          "id": "15060000"
         }
       ]
     },
