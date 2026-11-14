@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-13T23:20:45.119745+00:00",
+  "source_fetched_at": "2026-11-14T01:21:16.677584+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,12 +137,12 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "63.8",
+      "soulbind_rate": "54.3",
       "soulbindings": [
         {
-          "name": "Dexterity",
-          "value": "14",
-          "id": "DEX"
+          "name": "Back Defense",
+          "value": "269",
+          "id": "BackAttackDefense"
         },
         {
           "name": "Critical Hit",
