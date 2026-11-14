@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-14T15:22:04.480402+00:00",
+  "source_fetched_at": "2026-11-14T17:22:08.931281+00:00",
   "item_count": 21,
   "items": [
     {
@@ -395,22 +395,27 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "47.3",
+      "soulbind_rate": "86.3",
       "soulbindings": [
         {
           "name": "Block",
-          "value": "24",
+          "value": "35",
           "id": "Block"
         },
         {
-          "name": "Accuracy",
-          "value": "39",
-          "id": "WeaponAccuracy"
+          "name": "Attack",
+          "value": "20",
+          "id": "WeaponFixingDamage"
         },
         {
           "name": "Critical Hit Resist",
-          "value": "43",
+          "value": "54",
           "id": "CriticalResist"
+        },
+        {
+          "name": "Defense",
+          "value": "273",
+          "id": "ArmorDefense"
         }
       ],
       "skill_soulbindings": [
