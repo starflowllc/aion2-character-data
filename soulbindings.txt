@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-15T11:22:34.595266+00:00
+source_fetched_at: 2026-11-15T13:22:36.961770+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
