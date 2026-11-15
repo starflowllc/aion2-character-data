@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-15T13:22:36.961770+00:00",
+  "source_fetched_at": "2026-11-15T15:22:50.321719+00:00",
   "item_count": 21,
   "items": [
     {
@@ -75,7 +75,7 @@
       "grade": "Unique",
       "category": "Helm",
       "enchant_level": 15,
-      "soulbind_rate": "94.8",
+      "soulbind_rate": "74.6",
       "soulbindings": [
         {
           "name": "Double Chance",
@@ -93,9 +93,9 @@
           "id": "WeaponAccuracy"
         },
         {
-          "name": "HP",
-          "value": "200",
-          "id": "HPMax"
+          "name": "MP",
+          "value": "87",
+          "id": "MPMax"
         }
       ],
       "skill_soulbindings": []
@@ -201,12 +201,12 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 14,
-      "soulbind_rate": "42.6",
+      "soulbind_rate": "39.8",
       "soulbindings": [
         {
-          "name": "MP",
-          "value": "62",
-          "id": "MPMax"
+          "name": "Critical Hit",
+          "value": "20",
+          "id": "Critical"
         },
         {
           "name": "Attack",
@@ -221,9 +221,9 @@
       ],
       "skill_soulbindings": [
         {
-          "name": "Fire Mark",
+          "name": "Robe of Cold",
           "value": "1",
-          "id": "15710000"
+          "id": "15750000"
         }
       ]
     },
@@ -233,13 +233,8 @@
       "grade": "Unique",
       "category": "Shoes",
       "enchant_level": 15,
-      "soulbind_rate": "12.7",
+      "soulbind_rate": "35.4",
       "soulbindings": [
-        {
-          "name": "Dexterity",
-          "value": "18",
-          "id": "DEX"
-        },
         {
           "name": "Move Speed",
           "value": "8.4%",
@@ -256,7 +251,13 @@
           "id": "WeaponAccuracy"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "1",
+          "id": "15740000"
+        }
+      ]
     },
     {
       "slot": "10",
@@ -295,17 +296,12 @@
       "grade": "Unique",
       "category": "Earrings",
       "enchant_level": 15,
-      "soulbind_rate": "28.3",
+      "soulbind_rate": "51.7",
       "soulbindings": [
         {
           "name": "Might",
           "value": "9",
           "id": "STR"
-        },
-        {
-          "name": "Defense",
-          "value": "264",
-          "id": "ArmorDefense"
         },
         {
           "name": "HP",
@@ -318,7 +314,13 @@
           "id": "AGI"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Flame",
+          "value": "1",
+          "id": "15740000"
+        }
+      ]
     },
     {
       "slot": "12",
