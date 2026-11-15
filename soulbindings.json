@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-14T21:22:13.498726+00:00",
+  "source_fetched_at": "2026-11-14T23:22:16.782446+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,12 +137,12 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "54.3",
+      "soulbind_rate": "57.7",
       "soulbindings": [
         {
-          "name": "Back Defense",
-          "value": "269",
-          "id": "BackAttackDefense"
+          "name": "HP",
+          "value": "207",
+          "id": "HPMax"
         },
         {
           "name": "Critical Hit",
@@ -200,7 +200,7 @@
       "name": "Nuakum Gloves",
       "grade": "Unique",
       "category": "Gloves",
-      "enchant_level": 13,
+      "enchant_level": 14,
       "soulbind_rate": "42.6",
       "soulbindings": [
         {
@@ -395,7 +395,7 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "86.3",
+      "soulbind_rate": "72.5",
       "soulbindings": [
         {
           "name": "Block",
@@ -413,9 +413,9 @@
           "id": "CriticalResist"
         },
         {
-          "name": "Defense",
-          "value": "273",
-          "id": "ArmorDefense"
+          "name": "HP",
+          "value": "183",
+          "id": "HPMax"
         }
       ],
       "skill_soulbindings": [
