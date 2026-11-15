@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-15T13:22:36.961770+00:00
+source_fetched_at: 2026-11-15T15:22:50.321719+00:00
 item_count: 21
 
 === 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
@@ -18,11 +18,11 @@ soulBindRate: 100
 - Multi-hit Chance: 7.3%
 
 === 3 | Nuakum Helm +15 | Helm ===
-soulBindRate: 94.8
+soulBindRate: 74.6
 - Double Chance: 2%
 - Critical Hit: 39
 - Accuracy: 50
-- HP: 200
+- MP: 87
 
 === 4 | Nuakum Pauldrons +15 | Pauldrons ===
 soulBindRate: 6
@@ -46,18 +46,18 @@ soulBindRate: 59.8
 - Robe of Cold: 1 [SKILL]
 
 === 7 | Nuakum Gloves +14 | Gloves ===
-soulBindRate: 42.6
-- MP: 62
+soulBindRate: 39.8
+- Critical Hit: 20
 - Attack: 14
 - Combat Speed: 6%
-- Fire Mark: 1 [SKILL]
+- Robe of Cold: 1 [SKILL]
 
 === 8 | Nuakum Boots +15 | Shoes ===
-soulBindRate: 12.7
-- Dexterity: 18
+soulBindRate: 35.4
 - Move Speed: 8.4%
 - Critical Damage Defense: 202
 - Accuracy: 37
+- Robe of Flame: 1 [SKILL]
 
 === 10 | Enraged Kromede Necklace +15 | Necklace ===
 soulBindRate: 13.6
@@ -67,11 +67,11 @@ soulBindRate: 13.6
 - MP: 119
 
 === 11 | Enraged Kromede Earrings +15 | Earrings ===
-soulBindRate: 28.3
+soulBindRate: 51.7
 - Might: 9
-- Defense: 264
 - HP: 229
 - Precision: 8
+- Robe of Flame: 1 [SKILL]
 
 === 12 | Enraged Kromede Earrings +15 | Earrings ===
 soulBindRate: 66.6
