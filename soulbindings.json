@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-16T13:25:14.741207+00:00",
+  "source_fetched_at": "2026-11-16T15:25:18.009123+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,31 +137,30 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "78.9",
+      "soulbind_rate": "16.9",
       "soulbindings": [
         {
-          "name": "HP",
-          "value": "207",
-          "id": "HPMax"
+          "name": "Critical Hit Resist",
+          "value": "47",
+          "id": "CriticalResist"
+        },
+        {
+          "name": "MP",
+          "value": "106",
+          "id": "MPMax"
+        },
+        {
+          "name": "Evasion",
+          "value": "28",
+          "id": "ArmorEvasion"
+        },
+        {
+          "name": "Weapon Damage Tolerance",
+          "value": "7.9%",
+          "id": "DecreaseWeaponDamage"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Robe of Flame",
-          "value": "1",
-          "id": "15740000"
-        },
-        {
-          "name": "Robe of Earth",
-          "value": "1",
-          "id": "15720000"
-        },
-        {
-          "name": "Grace of Resistance",
-          "value": "1",
-          "id": "15770000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "6",
