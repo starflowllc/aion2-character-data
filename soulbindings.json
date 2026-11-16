@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-15T23:23:58.652925+00:00",
+  "source_fetched_at": "2026-11-16T01:24:20.615540+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,17 +137,12 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "57.7",
+      "soulbind_rate": "78.9",
       "soulbindings": [
         {
           "name": "HP",
           "value": "207",
           "id": "HPMax"
-        },
-        {
-          "name": "Critical Hit",
-          "value": "34",
-          "id": "Critical"
         }
       ],
       "skill_soulbindings": [
@@ -160,6 +155,11 @@
           "name": "Robe of Earth",
           "value": "1",
           "id": "15720000"
+        },
+        {
+          "name": "Grace of Resistance",
+          "value": "1",
+          "id": "15770000"
         }
       ]
     },
