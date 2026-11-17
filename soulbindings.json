@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-17T11:26:55.480176+00:00",
+  "source_fetched_at": "2026-11-17T13:27:00.675852+00:00",
   "item_count": 21,
   "items": [
     {
@@ -44,7 +44,7 @@
       "grade": "Unique",
       "category": "Guard",
       "enchant_level": 15,
-      "soulbind_rate": "100",
+      "soulbind_rate": "88.1",
       "soulbindings": [
         {
           "name": "Critical Hit",
@@ -52,22 +52,23 @@
           "id": "Critical"
         },
         {
-          "name": "Accuracy",
-          "value": "76",
-          "id": "WeaponAccuracy"
-        },
-        {
           "name": "Combat Speed",
           "value": "9.6%",
           "id": "CombatSpeed"
         },
         {
-          "name": "Multi-hit Chance",
-          "value": "7.3%",
-          "id": "AdditionalHitRate"
+          "name": "Weapon Damage Boost",
+          "value": "6.8%",
+          "id": "AmplifyWeaponDamage"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Flame Arrow",
+          "value": "1",
+          "id": "15210000"
+        }
+      ]
     },
     {
       "slot": "3",
@@ -137,27 +138,27 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "8.7",
+      "soulbind_rate": "15.3",
       "soulbindings": [
-        {
-          "name": "Critical Hit Resist",
-          "value": "47",
-          "id": "CriticalResist"
-        },
         {
           "name": "Critical Damage Defense",
           "value": "276",
           "id": "CriticalDamageDefense"
         },
         {
-          "name": "Back Defense",
-          "value": "271",
-          "id": "BackAttackDefense"
+          "name": "Front Defense",
+          "value": "278",
+          "id": "FrontAttackDefense"
         },
         {
           "name": "Weapon Damage Tolerance",
           "value": "7.9%",
           "id": "DecreaseWeaponDamage"
+        },
+        {
+          "name": "Attack",
+          "value": "23",
+          "id": "WeaponFixingDamage"
         }
       ],
       "skill_soulbindings": []
@@ -220,9 +221,9 @@
       ],
       "skill_soulbindings": [
         {
-          "name": "Robe of Cold",
+          "name": "Fire Mark",
           "value": "1",
-          "id": "15750000"
+          "id": "15710000"
         }
       ]
     },
