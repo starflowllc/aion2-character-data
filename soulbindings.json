@@ -1,39 +1,44 @@
 {
-  "source_fetched_at": "2026-11-17T15:27:00.992512+00:00",
+  "source_fetched_at": "2026-11-17T17:27:04.991056+00:00",
   "item_count": 21,
   "items": [
     {
       "slot": "1",
-      "name": "Wise Dragon Lord Spellbook",
+      "name": "Splendent Wise Dragon Lord Spellbook",
       "grade": "Unique",
       "category": "Spellbook",
       "enchant_level": 15,
-      "soulbind_rate": "83.9",
+      "soulbind_rate": "100",
       "soulbindings": [
         {
           "name": "Might",
-          "value": "30",
+          "value": "32",
           "id": "STR"
         },
         {
           "name": "Damage Boost",
-          "value": "6.7%",
+          "value": "7.3%",
           "id": "AmplifyAllDamage"
         },
         {
           "name": "Accuracy",
-          "value": "91",
+          "value": "98",
           "id": "WeaponAccuracy"
         },
         {
           "name": "Weapon Damage Boost",
-          "value": "8.9%",
+          "value": "9.6%",
           "id": "AmplifyWeaponDamage"
         },
         {
           "name": "Combat Speed",
-          "value": "11.9%",
+          "value": "13%",
           "id": "CombatSpeed"
+        },
+        {
+          "name": "Multi-hit Chance",
+          "value": "9.6%",
+          "id": "AdditionalHitRate"
         }
       ],
       "skill_soulbindings": []
@@ -138,22 +143,17 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "15.3",
+      "soulbind_rate": "40.1",
       "soulbindings": [
         {
-          "name": "Critical Damage Defense",
-          "value": "276",
-          "id": "CriticalDamageDefense"
+          "name": "HP",
+          "value": "207",
+          "id": "HPMax"
         },
         {
-          "name": "Front Defense",
-          "value": "278",
-          "id": "FrontAttackDefense"
-        },
-        {
-          "name": "Weapon Damage Tolerance",
-          "value": "7.9%",
-          "id": "DecreaseWeaponDamage"
+          "name": "Accuracy",
+          "value": "48",
+          "id": "WeaponAccuracy"
         },
         {
           "name": "Attack",
@@ -161,7 +161,13 @@
           "id": "WeaponFixingDamage"
         }
       ],
-      "skill_soulbindings": []
+      "skill_soulbindings": [
+        {
+          "name": "Robe of Earth",
+          "value": "1",
+          "id": "15720000"
+        }
+      ]
     },
     {
       "slot": "6",
