@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-16T23:26:18.077078+00:00",
+  "source_fetched_at": "2026-11-17T01:26:29.196925+00:00",
   "item_count": 21,
   "items": [
     {
@@ -137,7 +137,7 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "16.9",
+      "soulbind_rate": "8.7",
       "soulbindings": [
         {
           "name": "Critical Hit Resist",
@@ -145,14 +145,14 @@
           "id": "CriticalResist"
         },
         {
-          "name": "MP",
-          "value": "106",
-          "id": "MPMax"
+          "name": "Critical Damage Defense",
+          "value": "276",
+          "id": "CriticalDamageDefense"
         },
         {
-          "name": "Evasion",
-          "value": "28",
-          "id": "ArmorEvasion"
+          "name": "Back Defense",
+          "value": "271",
+          "id": "BackAttackDefense"
         },
         {
           "name": "Weapon Damage Tolerance",
