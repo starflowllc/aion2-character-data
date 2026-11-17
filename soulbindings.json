@@ -1,14 +1,14 @@
 {
-  "source_fetched_at": "2026-11-17T13:27:00.675852+00:00",
+  "source_fetched_at": "2026-11-17T15:27:00.992512+00:00",
   "item_count": 21,
   "items": [
     {
       "slot": "1",
-      "name": "Splendent White Dragon Lord Spellbook",
+      "name": "Wise Dragon Lord Spellbook",
       "grade": "Unique",
       "category": "Spellbook",
       "enchant_level": 15,
-      "soulbind_rate": "100",
+      "soulbind_rate": "83.9",
       "soulbindings": [
         {
           "name": "Might",
@@ -360,7 +360,7 @@
       "grade": "Unique",
       "category": "Ring",
       "enchant_level": 15,
-      "soulbind_rate": "69.4",
+      "soulbind_rate": "69.5",
       "soulbindings": [
         {
           "name": "Might",
@@ -368,9 +368,9 @@
           "id": "STR"
         },
         {
-          "name": "Natural MP Regen",
-          "value": "24",
-          "id": "MPRegen"
+          "name": "Flight Power",
+          "value": "234",
+          "id": "FPMax"
         },
         {
           "name": "Critical Hit",
