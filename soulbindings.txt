@@ -1,9 +1,9 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-17T13:27:00.675852+00:00
+source_fetched_at: 2026-11-17T15:27:00.992512+00:00
 item_count: 21
 
-=== 1 | Splendent White Dragon Lord Spellbook +15 | Spellbook ===
-soulBindRate: 100
+=== 1 | Wise Dragon Lord Spellbook +15 | Spellbook ===
+soulBindRate: 83.9
 - Might: 30
 - Damage Boost: 6.7%
 - Accuracy: 91
@@ -81,9 +81,9 @@ soulBindRate: 66.6
 - Vitality Evaporation: 1 [SKILL]
 
 === 13 | Splendent Wise Dragon Lord Ring +15 | Ring ===
-soulBindRate: 69.4
+soulBindRate: 69.5
 - Might: 12
-- Natural MP Regen: 24
+- Flight Power: 234
 - Critical Hit: 32
 - Firestorm: 1 [SKILL]
 - Wish of Concentration: 1 [SKILL]
