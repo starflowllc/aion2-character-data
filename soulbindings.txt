@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-18T11:28:57.272689+00:00
+source_fetched_at: 2026-11-18T13:29:17.418506+00:00
 item_count: 21
 
 === 1 | Splendent Wise Dragon Lord Spellbook +15 | Spellbook ===
@@ -33,11 +33,11 @@ soulBindRate: 6
 - Critical Damage Boost: 10.5%
 
 === 5 | Nuakum Breastplate +15 | Top ===
-soulBindRate: 40.1
-- HP: 207
+soulBindRate: 46.2
 - Accuracy: 48
 - Attack: 23
-- Robe of Earth: 1 [SKILL]
+- Natural HP Regen: 52
+- Robe of Flame: 1 [SKILL]
 
 === 6 | Nuakum Greaves +15 | Legs ===
 soulBindRate: 59.8
