@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-18T11:28:57.272689+00:00",
+  "source_fetched_at": "2026-11-18T13:29:17.418506+00:00",
   "item_count": 21,
   "items": [
     {
@@ -143,13 +143,8 @@
       "grade": "Unique",
       "category": "Top",
       "enchant_level": 15,
-      "soulbind_rate": "40.1",
+      "soulbind_rate": "46.2",
       "soulbindings": [
-        {
-          "name": "HP",
-          "value": "207",
-          "id": "HPMax"
-        },
         {
           "name": "Accuracy",
           "value": "48",
@@ -159,13 +154,18 @@
           "name": "Attack",
           "value": "23",
           "id": "WeaponFixingDamage"
+        },
+        {
+          "name": "Natural HP Regen",
+          "value": "52",
+          "id": "HPRegen"
         }
       ],
       "skill_soulbindings": [
         {
-          "name": "Robe of Earth",
+          "name": "Robe of Flame",
           "value": "1",
-          "id": "15720000"
+          "id": "15740000"
         }
       ]
     },
