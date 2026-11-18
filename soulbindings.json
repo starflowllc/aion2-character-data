@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-18T17:29:49.020533+00:00",
+  "source_fetched_at": "2026-11-18T19:30:18.770569+00:00",
   "item_count": 21,
   "items": [
     {
@@ -49,7 +49,7 @@
       "grade": "Unique",
       "category": "Guard",
       "enchant_level": 15,
-      "soulbind_rate": "88.1",
+      "soulbind_rate": "71.9",
       "soulbindings": [
         {
           "name": "Critical Hit",
@@ -65,15 +65,14 @@
           "name": "Weapon Damage Boost",
           "value": "6.8%",
           "id": "AmplifyWeaponDamage"
+        },
+        {
+          "name": "Back Attack",
+          "value": "68",
+          "id": "BackAttackDamage"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Flame Arrow",
-          "value": "1",
-          "id": "15210000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "3",
@@ -206,7 +205,7 @@
       "grade": "Unique",
       "category": "Gloves",
       "enchant_level": 15,
-      "soulbind_rate": "39.8",
+      "soulbind_rate": "25.2",
       "soulbindings": [
         {
           "name": "Critical Hit",
@@ -222,15 +221,14 @@
           "name": "Combat Speed",
           "value": "6%",
           "id": "CombatSpeed"
+        },
+        {
+          "name": "Accuracy",
+          "value": "30",
+          "id": "WeaponAccuracy"
         }
       ],
-      "skill_soulbindings": [
-        {
-          "name": "Fire Mark",
-          "value": "1",
-          "id": "15710000"
-        }
-      ]
+      "skill_soulbindings": []
     },
     {
       "slot": "8",
