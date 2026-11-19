@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-19T17:34:20.483697+00:00",
+  "source_fetched_at": "2026-11-19T19:35:08.427178+00:00",
   "item_count": 21,
   "items": [
     {
@@ -623,7 +623,7 @@
       "name": "Bell of Magic",
       "grade": "Unique",
       "category": "Bell",
-      "enchant_level": 4,
+      "enchant_level": 5,
       "soulbind_rate": "100",
       "soulbindings": [],
       "skill_soulbindings": [
@@ -639,7 +639,7 @@
         },
         {
           "name": "Robe of Cold",
-          "value": "3",
+          "value": "4",
           "id": "15750000"
         },
         {
