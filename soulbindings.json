@@ -1,5 +1,5 @@
 {
-  "source_fetched_at": "2026-11-19T11:33:20.685154+00:00",
+  "source_fetched_at": "2026-11-19T13:33:42.333284+00:00",
   "item_count": 21,
   "items": [
     {
@@ -49,7 +49,7 @@
       "grade": "Unique",
       "category": "Guard",
       "enchant_level": 15,
-      "soulbind_rate": "71.9",
+      "soulbind_rate": "63.3",
       "soulbindings": [
         {
           "name": "Critical Hit",
@@ -67,9 +67,9 @@
           "id": "AmplifyWeaponDamage"
         },
         {
-          "name": "Back Attack",
-          "value": "68",
-          "id": "BackAttackDamage"
+          "name": "Multi-hit Chance",
+          "value": "6.3%",
+          "id": "AdditionalHitRate"
         }
       ],
       "skill_soulbindings": []
@@ -236,7 +236,7 @@
       "grade": "Unique",
       "category": "Shoes",
       "enchant_level": 15,
-      "soulbind_rate": "35.4",
+      "soulbind_rate": "47.3",
       "soulbindings": [
         {
           "name": "Move Speed",
@@ -244,9 +244,9 @@
           "id": "MoveSpeed"
         },
         {
-          "name": "Critical Damage Defense",
-          "value": "202",
-          "id": "CriticalDamageDefense"
+          "name": "Attack",
+          "value": "20",
+          "id": "WeaponFixingDamage"
         },
         {
           "name": "Accuracy",
@@ -256,9 +256,9 @@
       ],
       "skill_soulbindings": [
         {
-          "name": "Robe of Flame",
+          "name": "Robe of Earth",
           "value": "1",
-          "id": "15740000"
+          "id": "15720000"
         }
       ]
     },
