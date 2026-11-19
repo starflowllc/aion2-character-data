@@ -1,5 +1,5 @@
 AION 2 LIVE SOULBINDINGS
-source_fetched_at: 2026-11-19T11:33:20.685154+00:00
+source_fetched_at: 2026-11-19T13:33:42.333284+00:00
 item_count: 21
 
 === 1 | Splendent Wise Dragon Lord Spellbook +15 | Spellbook ===
@@ -12,11 +12,11 @@ soulBindRate: 100
 - Multi-hit Chance: 9.6%
 
 === 2 | Nuakum Guard +15 | Guard ===
-soulBindRate: 71.9
+soulBindRate: 63.3
 - Critical Hit: 58
 - Combat Speed: 9.6%
 - Weapon Damage Boost: 6.8%
-- Back Attack: 68
+- Multi-hit Chance: 6.3%
 
 === 3 | Nuakum Helm +15 | Helm ===
 soulBindRate: 73.4
@@ -54,11 +54,11 @@ soulBindRate: 25.2
 - Accuracy: 30
 
 === 8 | Nuakum Boots +15 | Shoes ===
-soulBindRate: 35.4
+soulBindRate: 47.3
 - Move Speed: 8.4%
-- Critical Damage Defense: 202
+- Attack: 20
 - Accuracy: 37
-- Robe of Flame: 1 [SKILL]
+- Robe of Earth: 1 [SKILL]
 
 === 10 | Enraged Kromede Necklace +15 | Necklace ===
 soulBindRate: 13.6
